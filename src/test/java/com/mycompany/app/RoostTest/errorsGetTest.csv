@@ -1,0 +1,11 @@
+URL,Method,StatusCode,api-version,User-Agent,Token,Email,Phone,Name,Content-Type,Accept-Encoding,Connection,Host,Page-Offset,Page-Size,StartTime,EndTime
+/accounts,post,201,1.0.0,PostmanRuntime/7.32.3,5ce63865-9c45-492a-98fc-555c0578267f,a@zb.io,123456789,John Doe,application/json,gzip,keep-alive,0.0.0.0:4012,0,2,2019-08-24T14:15:22Z,2019-08-24T14:15:22Z
+/accounts,get,201,1.0.0,PostmanRuntime/7.32.3,5ce63865-9c45-492a-98fc-555c0578267f,b@zb.io,987654321,Jane Doe,application/json,gzip,keep-alive,0.0.0.0:4012,1,2,2019-08-24T15:15:22Z,2019-08-24T15:35:22Z
+/login,post,201,1.0.0,PostmanRuntime/7.32.3,5ce63865-9c45-492a-98fc-555c0578267f,c@zb.io,987654321,Frank Smith,application/json,gzip,keep-alive,0.0.0.0:4012,0,1,2019-08-24T14:45:22Z,2019-08-24T14:55:22Z
+/me,get,200,1.0.0,PostmanRuntime/7.32.3,5ce63865-9c45-492a-98fc-555c0578267f,d@zb.io,987654321,Alice Williams,application/json,gzip,keep-alive,0.0.0.0:4012,0,1,2019-08-24T15:05:22Z,2019-08-24T15:15:22Z
+/credentials,get,200,1.0.0,PostmanRuntime/7.32.3,5ce63865-9c45-492a-98fc-555c0578267f,e@zb.io,987654321,Bob Johnson,application/json,gzip,keep-alive,0.0.0.0:4012,1,1,2019-08-24T15:25:22Z,2019-08-24T15:35:22Z
+/recipients/branches,get,200,1.0.0,PostmanRuntime/7.32.3,5ce63865-9c45-492a-98fc-555c0578267f,f@zb.io,987654321,Mary Davis,application/json,gzip,keep-alive,0.0.0.0:4012,0,1,2019-08-24T15:55:22Z,2019-08-24T16:05:22Z
+/accounts,patch,200,1.0.0,PostmanRuntime/7.32.3,5ce63865-9c45-492a-98fc-555c0578267f,g@zb.io,987654321,James Wilson,application/json,gzip,keep-alive,0.0.0.0:4012,1,2,2019-08-24T14:45:22Z,2019-08-24T14:55:22Z
+/me,get,401,1.0.0,PostmanRuntime/7.32.3,5ce63865-9c45-492a-98fc-555c0578267f,h@zb.io,987654321,Linda Miller,application/json,gzip,keep-alive,0.0.0.0:4012,0,1,2019-08-24T15:55:22Z,2019-08-24T16:05:22Z
+/authorizations,get,200,1.0.0,PostmanRuntime/7.32.3,5ce63865-9c45-492a-98fc-555c0578267f,i@zb.io,987654321,Robert Moore,application/json,gzip,keep-alive,0.0.0.0:4012,1,2,2019-08-24T14:45:22Z,2019-08-24T14:55:22Z
+/apikeys,get,200,1.0.0,PostmanRuntime/7.32.3,5ce63865-9c45-492a-98fc-555c0578267f,j@zb.io,987654321,Patricia Taylor,application/json,gzip,keep-alive,0.0.0.0:4012,0,2,2019-08-24T15:55:22Z,2019-08-24T16:05:22Z

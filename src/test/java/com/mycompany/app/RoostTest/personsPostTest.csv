@@ -1,0 +1,11 @@
+initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference
+MJ,Michael,Joseph,Jackson,1958-08-29,Gary,+1 212-515-0000,mj@example.com,10022,100,1A,USA,123456
+PR,Prince,Roger,Nelson,1958-06-07,Minneapolis,+1 612-111-0000,prince@example.com,55401,200,1A,USA,123457
+MF,Madonna,Louise,Ciccone,1958-08-16,Bay City,+1 989-892-0000,madonna@example.com,48708,300,1A,USA,123458
+JB,Justin,Drew,Bieber,1994-03-01,London,+1 519-888-0000,jbieber@example.com,N2T 1A8,400,1A,CAN,123459
+AS,Adele,Laurie,Adkins,1988-05-05,Tottenham,+44 20 8888 8888,adele@example.com,N17 6QA,500,1A,UK,123460
+BS,Bruce,Frederick,Springsteen,1949-09-23,Long Branch,+1 732-229-0000,bspringsteen@example.com,07740,600,1A,USA,123461
+AJ,Alicia,Augello,Cook,1981-01-25,Manhattan,+1 212-678-0000,akeys@example.com,10026,700,1A,USA,123462
+EK,Ella,Marija,Lani,Yelich-O'Connor,1996-11-07,Takapuna,+64 9-489 0000,lorde@example.com,0622,800,1A,NZ,123463
+BB,Billie,Eilish,O'Connell,2001-12-18,Highland Park,+1 323-254-0000,billie@example.com,90042,900,1A,USA,123464
+EO,Eddie,Jerome,Vedder,1964-12-23,Evanston,+1 847-866-0000,evedder@example.com,60201,1000,1A,USA,123465

@@ -1,0 +1,11 @@
+cocNumber,cocBranchNumber,city,tradeName,phone,email
+COC123,1,New York,TradeName1,1234567890,email1@domain.com
+COC456,2,Los Angeles,TradeName2,0987654321,email2@domain.com
+COC789,3,Chicago,TradeName3,1122334455,email3@domain.com
+COC321,4,Houston,TradeName4,9988776655,email4@domain.com
+COC654,5,Phoenix,TradeName5,6677889900,email5@domain.com
+COC987,6,Philadelphia,TradeName6,4455667788,email6@domain.com
+COC135,7,San Antonio,TradeName7,2244668800,email7@domain.com
+COC246,8,San Diego,TradeName8,1133557799,email8@domain.com
+COC357,9,Dallas,TradeName9,9988771122,email9@domain.com
+COC468,10,San Jose,TradeName10,2233445566,email10@domain.com
