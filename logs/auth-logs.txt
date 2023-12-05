@@ -1,0 +1,68 @@
+[6:55:35 AM] › [HTTP SERVER] ℹ  info      HTTP request is: |'URL': "/authorizations"  |'header':  {"authorization":"xyz","token":"sd","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"0c2fe28b-fb55-46fa-819c-78e409169e41","host":"0.0.0.0:4012","accept-encoding":"gzip, deflate, br","connection":"keep-alive"} |'body: ' null
+[6:55:35 AM] › [HTTP SERVER] get /authorizations ℹ  info      Request received
+[6:55:36 AM] ›     [NEGOTIATOR] ℹ  info      Request contains an accept header: */*
+[6:55:36 AM] ›     [VALIDATOR] ✔  success   The request passed the validation rules. Looking for the best response
+[6:55:36 AM] ›     [NEGOTIATOR] ✔  success   Found a compatible content for */*
+[6:55:36 AM] ›     [NEGOTIATOR] ✔  success   Responding with the requested status code 200
+[6:55:36 AM] ›     [NEGOTIATOR] ℹ  info      HTTP response is: {"statusCode":200,"headers":{"api-version":"1.0.0","Content-type":"application/json"},"body":{"total":1,"authorizations":[{"id":"497f6eca-6276-4993-bfeb-53cbbbba6f08","name":"string","email":"user@example.com","createdAt":"2019-08-24T14:15:22Z","updatedAt":"2019-08-24T14:15:22Z"}]}}
+[6:55:36 AM] ›     [NEGOTIATOR] ℹ  info      > Responding with "200"
+[6:56:12 AM] › [HTTP SERVER] ℹ  info      HTTP request is: |'URL': "/authorizations"  |'header':  {"authorization":"xyz","content-type":"application/json","token":"sd","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"82503475-0729-4486-b7f5-c2502d4982b6","host":"0.0.0.0:4012","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"43"} |'body: ' {"email":"ashutosh1kapoor@gmail.com"}
+[6:56:12 AM] › [HTTP SERVER] post /authorizations ℹ  info      Request received
+[6:56:12 AM] ›     [NEGOTIATOR] ℹ  info      Request contains an accept header: */*
+[6:56:12 AM] ›     [VALIDATOR] ✔  success   The request passed the validation rules. Looking for the best response
+[6:56:12 AM] ›     [NEGOTIATOR] ✔  success   Found a compatible content for */*
+[6:56:12 AM] ›     [NEGOTIATOR] ✔  success   Responding with the requested status code 201
+[6:56:12 AM] ›     [NEGOTIATOR] ℹ  info      HTTP response is: {"statusCode":201,"headers":{"api-version":"1.0.0","location":"string","Content-type":"application/json"},"body":{"id":"497f6eca-6276-4993-bfeb-53cbbbba6f08","name":"string","email":"user@example.com","createdAt":"2019-08-24T14:15:22Z","updatedAt":"2019-08-24T14:15:22Z"}}
+[6:56:12 AM] ›     [NEGOTIATOR] ℹ  info      > Responding with "201"
+[6:56:17 AM] › [HTTP SERVER] ℹ  info      HTTP request is: |'URL': "/authorizations"  |'header':  {"authorization":"xyz","content-type":"application/json","token":"sd","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"7d203143-a5da-4773-b278-3386527f62c4","host":"0.0.0.0:4012","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"43"} |'body: ' {"email":"ashutosh2kapoor@gmail.com"}
+[6:56:17 AM] › [HTTP SERVER] post /authorizations ℹ  info      Request received
+[6:56:17 AM] ›     [NEGOTIATOR] ℹ  info      Request contains an accept header: */*
+[6:56:17 AM] ›     [VALIDATOR] ✔  success   The request passed the validation rules. Looking for the best response
+[6:56:17 AM] ›     [NEGOTIATOR] ✔  success   Found a compatible content for */*
+[6:56:17 AM] ›     [NEGOTIATOR] ✔  success   Responding with the requested status code 201
+[6:56:17 AM] ›     [NEGOTIATOR] ℹ  info      HTTP response is: {"statusCode":201,"headers":{"api-version":"1.0.0","location":"string","Content-type":"application/json"},"body":{"id":"497f6eca-6276-4993-bfeb-53cbbbba6f08","name":"string","email":"user@example.com","createdAt":"2019-08-24T14:15:22Z","updatedAt":"2019-08-24T14:15:22Z"}}
+[6:56:17 AM] ›     [NEGOTIATOR] ℹ  info      > Responding with "201"
+[6:56:46 AM] › [HTTP SERVER] ℹ  info      HTTP request is: |'URL': "/authorizations"  |'header':  {"authorization":"xyz","content-type":"application/json","token":"sd","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"901609c4-d43a-478a-8d0f-9273934fdec0","host":"0.0.0.0:4012","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"43"} |'body: ' {"email":"ashutosh2kapoor@gmail.com"}
+[6:56:46 AM] › [HTTP SERVER] get /authorizations ℹ  info      Request received
+[6:56:46 AM] ›     [NEGOTIATOR] ℹ  info      Request contains an accept header: */*
+[6:56:46 AM] ›     [VALIDATOR] ⚠  warning   Request did not pass the validation rules
+[6:56:46 AM] ›     [VALIDATOR] ✖  error     No supported content types, but request included a non-empty body
+[6:56:46 AM] ›     [NEGOTIATOR] ✔  success   Found response 400. I'll try with it.
+[6:56:46 AM] ›     [NEGOTIATOR] ✔  success   The response 400 has a schema. I'll keep going with this one
+[6:56:46 AM] ›     [NEGOTIATOR] ✔  success   Responding with the requested status code 400
+[6:56:46 AM] ›     [NEGOTIATOR] ℹ  info      HTTP response is: {"statusCode":400,"headers":{"api-version":"1.0.0","Content-type":"application/json"},"body":{"error":"error/code","description":"Descriptive Error Message"}}
+[6:56:46 AM] ›     [NEGOTIATOR] ℹ  info      > Responding with "400"
+[6:56:46 AM] ›     [VALIDATOR] ✖  error     Violation: request No supported content types, but request included a non-empty body
+[6:56:51 AM] › [HTTP SERVER] ℹ  info      HTTP request is: |'URL': "/authorizations"  |'header':  {"authorization":"xyz","token":"sd","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"c560140f-0535-424d-a0ce-ab59c07bbc60","host":"0.0.0.0:4012","accept-encoding":"gzip, deflate, br","connection":"keep-alive"} |'body: ' null
+[6:56:51 AM] › [HTTP SERVER] get /authorizations ℹ  info      Request received
+[6:56:51 AM] ›     [NEGOTIATOR] ℹ  info      Request contains an accept header: */*
+[6:56:51 AM] ›     [VALIDATOR] ✔  success   The request passed the validation rules. Looking for the best response
+[6:56:51 AM] ›     [NEGOTIATOR] ✔  success   Found a compatible content for */*
+[6:56:51 AM] ›     [NEGOTIATOR] ✔  success   Responding with the requested status code 200
+[6:56:51 AM] ›     [NEGOTIATOR] ℹ  info      HTTP response is: {"statusCode":200,"headers":{"api-version":"1.0.0","Content-type":"application/json"},"body":{"total":1,"authorizations":[{"id":"497f6eca-6276-4993-bfeb-53cbbbba6f08","name":"string","email":"user@example.com","createdAt":"2019-08-24T14:15:22Z","updatedAt":"2019-08-24T14:15:22Z"}]}}
+[6:56:51 AM] ›     [NEGOTIATOR] ℹ  info      > Responding with "200"
+[6:57:32 AM] › [HTTP SERVER] ℹ  info      HTTP request is: |'URL': "/authorizations/497f6eca-6276-4993-bfeb-53cbbbba6f08"  |'header':  {"authorization":"xyz","token":"sd","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"575da8c9-a1f2-48fa-a505-30a7183e46be","host":"0.0.0.0:4012","accept-encoding":"gzip, deflate, br","connection":"keep-alive"} |'body: ' null
+[6:57:32 AM] › [HTTP SERVER] delete /authorizations/497f6eca-6276-4993-bfeb-53cbbbba6f08 ℹ  info      Request received
+[6:57:32 AM] ›     [NEGOTIATOR] ℹ  info      Request contains an accept header: */*
+[6:57:32 AM] ›     [VALIDATOR] ✔  success   The request passed the validation rules. Looking for the best response
+[6:57:32 AM] ›     [NEGOTIATOR] ⚠  warning   Unable to find content for */*
+[6:57:32 AM] ›     [NEGOTIATOR] ✔  success   Responding with the requested status code 200
+[6:57:32 AM] ›     [NEGOTIATOR] ℹ  info      HTTP response is: {"statusCode":200,"headers":{"api-version":"1.0.0"}}
+[6:57:32 AM] ›     [NEGOTIATOR] ℹ  info      > Responding with "200"
+[6:57:45 AM] › [HTTP SERVER] ℹ  info      HTTP request is: |'URL': "/authorizations"  |'header':  {"authorization":"xyz","token":"sd","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"0dce3157-516d-4057-a63d-21df21ca086f","host":"0.0.0.0:4012","accept-encoding":"gzip, deflate, br","connection":"keep-alive"} |'body: ' null
+[6:57:45 AM] › [HTTP SERVER] get /authorizations ℹ  info      Request received
+[6:57:45 AM] ›     [NEGOTIATOR] ℹ  info      Request contains an accept header: */*
+[6:57:45 AM] ›     [VALIDATOR] ✔  success   The request passed the validation rules. Looking for the best response
+[6:57:45 AM] ›     [NEGOTIATOR] ✔  success   Found a compatible content for */*
+[6:57:45 AM] ›     [NEGOTIATOR] ✔  success   Responding with the requested status code 200
+[6:57:45 AM] ›     [NEGOTIATOR] ℹ  info      HTTP response is: {"statusCode":200,"headers":{"api-version":"1.0.0","Content-type":"application/json"},"body":{"total":1,"authorizations":[{"id":"497f6eca-6276-4993-bfeb-53cbbbba6f08","name":"string","email":"user@example.com","createdAt":"2019-08-24T14:15:22Z","updatedAt":"2019-08-24T14:15:22Z"}]}}
+[6:57:45 AM] ›     [NEGOTIATOR] ℹ  info      > Responding with "200"
+[6:58:08 AM] › [HTTP SERVER] ℹ  info      HTTP request is: |'URL': "/authorizations/497f6eca-6276-4993-bfeb-53cbbbba6f08?name=string"  |'header':  {"authorization":"xyz","token":"sd","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"026f7da8-d729-4bba-9898-9934f4617c1d","host":"0.0.0.0:4012","accept-encoding":"gzip, deflate, br","connection":"keep-alive"} |'body: ' null
+[6:58:08 AM] › [HTTP SERVER] delete /authorizations/497f6eca-6276-4993-bfeb-53cbbbba6f08 ℹ  info      Request received
+[6:58:08 AM] ›     [NEGOTIATOR] ℹ  info      Request contains an accept header: */*
+[6:58:08 AM] ›     [VALIDATOR] ✔  success   The request passed the validation rules. Looking for the best response
+[6:58:08 AM] ›     [NEGOTIATOR] ⚠  warning   Unable to find content for */*
+[6:58:08 AM] ›     [NEGOTIATOR] ✔  success   Responding with the requested status code 200
+[6:58:08 AM] ›     [NEGOTIATOR] ℹ  info      HTTP response is: {"statusCode":200,"headers":{"api-version":"1.0.0"}}
+[6:58:08 AM] ›     [NEGOTIATOR] ℹ  info      > Responding with "200"
+
