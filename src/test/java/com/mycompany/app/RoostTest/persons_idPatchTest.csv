@@ -1,0 +1,11 @@
+initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference
+TS,Tom,Sem,Johnson,1990-08-24,Newyork,1234567890,tom.johnson@example.com,10011,12,A,US,tom90
+MJ,Mary,Joe,Smith,1985-05-20,Chicago,0987654321,mary.smith@example.com,60606,24,B,US,mary85
+FB,Frank,Bob,Williams,1988-01-15,Dallas,4561237890,frank.williams@example.com,75201,36,C,US,frank88
+PW,Paul,Walker,Thomas,1987-10-31,San Francisco,7891234560,paul.thomas@example.com,94158,48,D,US,paul87
+JS,John,Stark,Harris,1986-04-18,Los Angeles,3216549870,jonh.harris@example.com,90001,60,E,US,john86
+BB,Bill,Ben,Clark,1989-12-25,Houston,9876543210,bill.clark@example.com,77002,72,F,US,bill89
+RD,Ryan,Dcruz,Rodriguez,1991-09-01,Philadelphia,6543219870,ryan.rodrigues@example.com,19106,84,G,US,ryan91
+AP,Alex,Paul,Lewis,1992-06-08,Phoenix,7418529630,alex.lewis@example.com,85001,96,H,US,alex92
+CD,Chris,Dsouza,Walker,1993-07-04,San Antonio,9638527410,chris.walker@example.com,78205,108,I,US,chris93
+KL,Kevin,Lee,Hall,1994-08-15,San Diego,1593574862,kevin.hall@example.com,92101,120,J,US,kevin94

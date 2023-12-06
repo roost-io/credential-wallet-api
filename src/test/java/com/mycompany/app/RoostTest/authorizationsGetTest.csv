@@ -1,0 +1,11 @@
+ID,firstname,lastname,username,email,balance,country,city,join_date,latitude,longitude
+1,John,Doe,johndoe,johndoe@example.com,120.27,United States,Los Angeles,2022-03-07,34.0522,118.2437
+2,Jane,Smith,jane,janesmith@example.com,345.67,Canada,Toronto,2020-06-15,43.70,-79.42
+3,James,Johnson,jamesjohnson,jamesjohn@example.com,2345.00,United Kingdom,London,2019-02-09,51.51,-0.13
+4,Patricia,Williams,patwill,patwi@example.com,675.20,Australia,Sydney,2021-12-17,-33.86,151.21
+5,Robert,Brown,robbbrown,robb@example.com,98.12,Japan,Tokyo,2021-05-24,35.68,139.76
+6,Mary,Jones,mary,maryjones@example.com,7123.50,France,Paris,2022-01-03,48.85,2.35
+7,Michael,Davis,mikedavis,mika_D@example.com,4500.00,Egypt,Cairo,2019-10-30,30.04,31.23
+8,Linda,Taylor,lindaT,lin*d@t.com,543.99,Brazil,Rio De Janeiro,2021-02-11,-22.91,-43.17
+9,William,Anderson,willanderson,will_an_ex@gmail.com,895.50,Poland,Warsaw,2021-04-17,52.23,21.01
+10,Elizabeth,Thomas,elandthom,elizatom@example.com,9120.90,Chile,Santiago,2022-04-02,-33.46,-70.64

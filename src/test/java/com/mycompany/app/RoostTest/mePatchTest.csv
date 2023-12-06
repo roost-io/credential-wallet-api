@@ -1,0 +1,11 @@
+name,image,settings
+mario,data:image/jpeg;base64,iVBORw0...,{"sound":"off","theme":"dark"}
+luigi,data:image/jpeg;base64,iVBORw0...,{"sound":"on","theme":"light"}
+peach,data:image/jpeg;base64,iVBORw0...,{"sound":"off","theme":"dark"}
+bowser,data:image/jpeg;base64,iVBORw0...,{"sound":"on","theme":"light"}
+wario,data:image/jpeg;base64,iVBORw0...,{"sound":"off","theme":"light"}
+waluigi,data:image/jpeg;base64,iVBORw0...,{"sound":"on","theme":"dark"}
+donkeykong,data:image/jpeg;base64,iVBORw0...,{"sound":"off","theme":"dark"}
+diddykong,data:image/jpeg;base64,iVBORw0...,{"sound":"on","theme":"light"}
+rosalina,data:image/jpeg;base64,iVBORw0...,{"sound":"off","theme":"light"}
+yoshi,data:image/jpeg;base64,iVBORw0...,{"sound":"on","theme":"dark"}
