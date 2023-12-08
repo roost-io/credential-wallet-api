@@ -1,0 +1,11 @@
+cocNumber,cocBranchNumber,city,tradeName,phone,email
+COC123,BR01,New York,TradeA,(123) 456-7890,tradeA@abc.com
+COC124,BR02,Los Angeles,TradeB,(234) 567-8901,tradeB@abc.com
+COC125,BR03,Chicago,TradeC,(345) 678-9012,tradeC@abc.com
+COC126,BR04,Houston,TradeD,(456) 789-0123,tradeD@abc.com
+COC127,BR05,Phoenix,TradeE,(567) 890-1234,tradeE@abc.com
+COC128,BR06,Philadelphia,TradeF,(678) 901-2345,tradeF@abc.com
+COC129,BR07,San Antonio,TradeG,(789) 012-3456,tradeG@abc.com
+COC130,BR08,San Diego,TradeH,(890) 123-4567,tradeH@abc.com
+COC131,BR09,Dallas,TradeI,(901) 234-5678,tradeI@abc.com
+COC132,BR10,San Jose,TradeJ,(012) 345-6789,tradeJ@abc.com
