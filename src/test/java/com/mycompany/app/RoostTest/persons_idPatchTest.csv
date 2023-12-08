@@ -1,0 +1,11 @@
+initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference
+A.B.,Alice,Beatrice,Smith,1980-06-15,New York,2125550123,alice.b.smith@gmail.com,10001,123,A,US,AB3467SM
+J.D.,John,Doe,Johnson,1975-09-23,London,442085712345,john.d.johnson@gmail.com,E1 6AN,24,B,UK,JD5292JO
+T.C.,Thomas,Craig,Davies,1990-11-14,Sydney,61298765432,thomas.c.davies@gmail.com,2000,56,,AU,TC5942DA
+H.S.,Harry,Simon,Brown,1982-04-21,Toronto,4165550195,harry.s.brown@gmail.com,M4B 1B3,89,C,CA,HS4573BR
+L.J.,Laura,Jean,Carter,1978-07-30,Berlin,493055501276,laura.j.carter@gmail.com,10115,987,D,DE,LJ3268CA
+M.B.,Matthew,Benjamin,Stewart,1992-12-01,Paris,331825501325,matthew.b.stewart@gmail.com,75001,32,,FR,MB7263ST
+A.G.,Allison,Grace,Kennedy,1986-02-03,Rome,393155501424,allison.g.kennedy@gmail.com,00185,45,E,IT,AG6257KE
+R.E.,Richard,Eric,Campbell,1979-08-17,Madrid,349155501523,richard.e.campbell@gmail.com,28013,67,F,ES,RE8152CA
+D.F.,David,Fred,Howard,1988-05-09,Beijing,861055501622,david.f.howard@gmail.com,100000,121,,CN,DF4429HO
+P.H.,Patricia,Heather,Evans,1970-10-25,Tokyo,81355501621,patricia.h.evans@gmail.com,102-0082,90,G,JP,PH2548EV

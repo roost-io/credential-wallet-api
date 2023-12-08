@@ -1,0 +1,11 @@
+UserID,Username,Email,DateOfBirth,Age,Country
+1,JohnSmith,johnsmith@example.com,1980-03-30,41,USA
+2,JaneDoe,janedoe@example.com,1985-08-15,36,Canada
+3,MarkTaylor,marktaylor@example.com,1990-12-04,31,UK
+4,EmilyJohnson,emilyjohnson@example.com,2001-06-11,20,Australia
+5,LiamBrown,liambrown@example.com,1995-10-24,26,New Zealand
+6,EmmaWilson,emmawilson@example.com,1988-02-12,33,Ireland
+7,NoahMiller,noahmiller@example.com,1975-07-19,46,USA
+8,SophiaDavis,sophiadavis@example.com,2002-05-23,19,Canada
+9,OliverMartinez,olivermartinez@example.com,1992-04-18,29,UK
+10,AvaGonzales,avagonzalez@example.com,1999-11-30,22,Australia

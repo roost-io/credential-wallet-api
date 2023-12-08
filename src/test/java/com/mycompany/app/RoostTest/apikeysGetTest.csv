@@ -1,0 +1,11 @@
+UserID,FirstName,LastName,UserType,DateJoined,LastLogin,Email,PhoneNumber
+1111,John,Doe,Admin,2018-08-15,2022-09-30,johndoe@gmail.com,1234567890
+1112,Jane,Doe,User,2019-03-20,2022-10-01,janedoe@gmail.com,1234567891
+1113,James,Smith,Admin,2020-01-01,2022-10-02,jamessmith@gmail.com,1234567892
+1114,Jessica,Smith,User,2021-04-30,2022-10-03,jessicasmith@gmail.com,1234567893
+1115,Justin,Doe,User,2018-12-24,2022-10-04,justindoe@gmail.com,1234567894
+1116,Jenny,Smith,Admin,2019-07-12,2022-10-05,jennysmith@gmail.com,1234567895
+1117,Jake,Doe,User,2020-06-30,2022-10-06,jakedoe@gmail.com,1234567896
+1118,Joan,Smith,Admin,2021-02-28,2022-10-07,joansmith@gmail.com,1234567897
+1119,Jill,Doe,User,2022-09-01,2022-10-08,jilldoe@gmail.com,1234567898
+1120,Jack,Smith,Admin,2021-11-30,2022-10-09,jacksmith@gmail.com,1234567899

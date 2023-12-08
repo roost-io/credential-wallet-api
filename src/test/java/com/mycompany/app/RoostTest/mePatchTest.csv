@@ -1,0 +1,11 @@
+name,image,settings
+John Doe,data:image/jpeg;base64,abc234,{"dark_mode": true, "notifications": true}
+Jane Smith,data:image/jpeg;base64,abc235,{"dark_mode": false, "notifications": true}
+Robert Brown,data:image/jpeg;base64,abc236,{"dark_mode": true, "notifications": false}
+Emily Johnson,data:image/jpeg;base64,abc237,{"dark_mode": false, "notifications": false}
+Michael Davis,data:image/jpeg;base64,abc238,{"dark_mode": true, "notifications": true}
+Jessica Miller,data:image/jpeg;base64,abc239,{"dark_mode": false, "notifications": true}
+Richard Moore,data:image/jpeg;base64,abc240,{"dark_mode": true, "notifications": false}
+Jennifer Taylor,data:image/jpeg;base64,abc241,{"dark_mode": false, "notifications": false}
+James Anderson,data:image/jpeg;base64,abc242,{"dark_mode": true, "notifications": true}
+Patricia Thomas,data:image/jpeg;base64,abc243,{"dark_mode": false, "notifications": true}

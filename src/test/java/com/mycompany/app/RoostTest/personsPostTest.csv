@@ -1,0 +1,11 @@
+initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference
+A.J.,Alexander,John,Smith,1980-01-01,New York,1234567890,alexsmith@example.com,11111,1,A,US,USR01
+B.K.,Ben,Kevin,Johnson,1981-02-02,Los Angeles,2345678901,benjohn@example.com,22222,2,B,US,USR02
+C.L.,Charles,Louis,Brown,1982-03-03,Chicago,3456789012,charliebrown@example.com,33333,3,C,US,USR03
+D.M.,David,Michael,Davis,1983-04-04,Houston,4567890123,daviddavis@example.com,44444,4,D,US,USR04
+E.N.,Edward,Nicholas,Martinez,1984-05-05,Philadelphia,5678901234,edmartinez@example.com,55555,5,E,US,USR05
+F.O.,Frank,Oliver,Hernandez,1985-06-06,Phoenix,6789012345,frankhernandez@example.com,66666,6,F,US,USR06
+G.P.,George,Paul,Lopez,1986-07-07,San Antonio,7890123456,georgelopez@example.com,77777,7,G,US,USR07
+H.Q.,Henry,Quincy,Lee,1987-08-08,San Diego,8901234567,henrylee@example.com,88888,8,H,US,USR08
+I.R.,Isaac,Richard,Gonzalez,1988-09-09,Dallas,9012345678,isaacgonzalez@example.com,99999,9,I,US,USR09
+J.S.,James,Samuel,Harris,1989-10-10,San Jose,0123456789,jamesharris@example.com,10000,10,J,US,USR10

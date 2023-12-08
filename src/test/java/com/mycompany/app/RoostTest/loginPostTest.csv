@@ -1,0 +1,11 @@
+email,otp,client
+user1@example.com,123456,web
+user2@example.com,958374,mobile
+user3@example.com,748392,desktop
+user4@example.com,593847,api
+user5@example.com,102938,mobile
+user6@example.com,374859,api
+user7@example.com,748102,web
+user8@example.com,203948,desktop
+user9@example.com,947382,mobile
+user10@example.com,495820,api
