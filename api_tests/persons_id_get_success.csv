@@ -1,0 +1,11 @@
+id,initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference,createdAt,updatedAt
+1abc023f-456a-789c-123d-abce456fg07,TRJ,Ted,Ryan,Jones,1972-10-12,Miami,(786)123456,tedjones@gmail.com,33125,100-A,D,USA,TJ-001,2022-01-05T18:30:00Z,2022-09-10T15:15:00Z
+2bcde34g-567b-890a-234e-bcdf567hi08,RJW,Ryan,John,Walker,1965-02-17,New York,(212)123456,ryanwalker@gmail.com,10001,200-B,E,USA,RW-002,2022-01-06T19:30:00Z,2022-09-11T16:15:00Z
+3cdef45h-678c-901b-345f-cdeg678ij09,MC,Mark,,Chapman,1980-07-23,Los Angeles,(213)123456,markchapman@gmail.com,90001,300-C,F,USA,MC-003,2022-01-07T20:30:00Z,2022-09-12T17:15:00Z
+4defg56i-789d-012c-456g-dehf789jk10,SN,Sara,Nixon,1990-09-30,Chicago,(312)123456,saranixon@gmail.com,60007,400-D,G,USA,SN-004,2022-01-08T21:30:00Z,2022-09-13T18:15:00Z
+5efgh67j-890e-123d-567h-efig890kl11,DH,David,Hayes,1985-05-20,Houston,(281)123456,davidhayes@gmail.com,77001,500-E,H,USA,DH-005,2022-01-09T22:30:00Z,2022-09-14T19:15:00Z
+6fghi78k-901f-234e-678i-fghj901lm12,TF,Tom,Ford,1975-03-15,Philadelphia,(215)123456,tomford@gmail.com,19019,600-F,I,USA,TF-006,2022-01-10T23:30:00Z,2022-09-15T20:15:00Z
+7ghij89l-012g-345f-789j-ghik012mn13,LB,Linda,,Brown,1995-12-27,Phoenix,(520)123456,lindabrown@gmail.com,85001,700-G,J,USA,LB-007,2022-01-11T00:30:00Z,2022-09-16T21:15:00Z
+8hijk90m-123h-456g-890k-hijl123no14,HS,Henry,Smith,1970-01-01,Austin,(512)123456,henrysmith@gmail.com,73301,800-H,K,USA,HS-008,2022-01-12T01:30:00Z,2022-09-17T22:15:00Z
+9ijkl01n-234i-567h-901l-ijkm234op15,MW,Mary,Williams,1996-10-31,Jacksonville,(904)123456,marywilliams@gmail.com,32203,900-I,L,USA,MW-009,2022-01-13T02:30:00Z,2022-09-18T23:15:00Z
+ajklm23o-456j-789i-012m-jkln345pq16,DG,David,Goliath,,1998-07-04,San Francisco,(628)123456,davidgoliath@gmail.com,94103,1000-J,M,USA,DG-010,2022-01-14T03:30:00Z,2022-09-19T00:15:00Z

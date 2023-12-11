@@ -1,0 +1,11 @@
+api-version,error,description,value,field,schema_field
+1.0.0,error/code,Descriptive Error Message,1234,username,username
+1.0.1,validation/email-pattern,Email format is incorrect,@gmail,userEmail,userEmail
+1.0.2,error/code,Descriptive Error Message,Data not found,null,null
+1.0.3,validation/password-pattern,Password must contain special characters,myPass123,userPassword,userPassword
+1.0.4,validation/username-pattern,Username can't contain special characters,@username,username,username
+1.0.5,error/code,Descriptive Error Message,Unable to connect to database,null,null
+1.0.6,validation/date-pattern,Date format is incorrect,20-12-2022,DOB,DOB
+1.0.7,validation/name-pattern,Name must only contain alphabets,John123,userName,userName
+1.0.8,error/code,Descriptive Error Message,Unmatched data found,null,null
+1.0.9,validation/phone-pattern,Phone number is not valid,12345,phoneNo,phoneNo

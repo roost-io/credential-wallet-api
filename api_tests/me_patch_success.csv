@@ -1,0 +1,11 @@
+name,image,settings
+John,data:image/jpeg;base64,eyJ0aGVtZSI6ImRhcmt9
+Jane,data:image/jpeg;base64,eyJmb250U2l6ZSI6MTJ9
+Sam,data:image/jpeg;base64,eyJ0aGVtZSI6ImxpZ2h0fQ==
+Emily,data:image/jpeg;base64,eyJmb250U2l6ZSI6MTR9
+Brian,data:image/jpeg;base64,eyJ0aGVtZSI6ImRhcmt9
+Sophie,data:image/jpeg;base64,eyJmb250U2l6ZSI6MTN9
+Mike,data:image/jpeg;base64,eyJmb250U2l6ZSI6MTV9
+Rachel,data:image/jpeg;base64,eyJ0aGVtZSI6ImxpZ2h0fQ==
+Tim,data:image/jpeg;base64,eyJjb2xvciI6InJlZCJ9
+Anna,data:image/jpeg;base64,eyJjb2xvciI6ImJsdWUifQ==

@@ -1,0 +1,11 @@
+name,image,settings
+JohnDoe,data:image/jpeg;base64,<clipped>,{"theme": "dark", "notifications": "enabled"}
+JaneSmith,data:image/png;base64,<clipped>,{"theme": "light", "notifications": "disabled"}
+RobertBrown,,"{"theme": "dark", "notifications": "enabled"}"
+EmilyWhite,data:image/gif;base64,<clipped>,{}
+GeorgeBlack,data:image/bmp;base64,<clipped>,{"theme": "dark", "notifications": "disabled"}
+ChristineGreen,data:image/tiff;base64,<clipped>,{"theme": "light", "notifications": "enabled"}
+DonaldYellow,,"{"theme": "light", "notifications": "enabled"}"
+HelenBlue,data:image/jpeg;base64,<clipped>,{}
+NathanPink,data:image/png;base64,<clipped>,{"theme": "dark", "notifications": "disabled"}
+LilyPurple,,"{"theme": "light", "notifications": "disabled"}"

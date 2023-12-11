@@ -1,0 +1,11 @@
+cocNumber,cocBranchNumber,city,tradeName,phone,email
+12345678,123456789012,Amsterdam,Trade-1,1234567890,trade1@example.com
+23456789,234567890123,Boston,Trade-2,2345678901,trade2@example.com
+34567890,345678901234,Chicago,Trade-3,3456789012,trade3@example.com
+45678901,456789012345,Dallas,Trade-4,4567890123,trade4@example.com
+56789012,567890123456,Edinburgh,Trade-5,5678901234,trade5@example.com
+67890123,678901234567,Frankfurt,Trade-6,6789012345,trade6@example.com
+78901234,789012345678,Geneva,Trade-7,7890123456,trade7@example.com
+89012345,890123456789,Helsinki,Trade-8,8901234567,trade8@example.com
+90123456,901234567890,Istanbul,Trade-9,9012345678,trade9@example.com
+01234567,012345678901,Jakarta,Trade-10,0123456789,trade10@example.com

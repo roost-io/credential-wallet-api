@@ -1,0 +1,11 @@
+field1,field2
+400,Bad Request
+api-version,1.0.0
+application/json,error/code
+Descriptive Error Message,validation/email-pattern
+,,,
+400,Bad Request1
+api-version,1.0.0
+application/js,error/codename
+description,validation/email-pattern1
+,,,
