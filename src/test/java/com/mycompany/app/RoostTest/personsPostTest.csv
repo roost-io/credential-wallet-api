@@ -1,0 +1,11 @@
+initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference
+JD,John,Doe,Smith,1985-07-28,New York,212-555-1234,john.doe@example.com,10001,123,A,US,REF001
+AM,Amanda,Mae,Johnson,1990-05-12,Los Angeles,310-555-5678,amanda.johnson@example.com,90001,456,B,US,REF002
+RM,Robert,Max,Martin,1982-06-10,San Francisco,415-555-7890,robert.martin@example.com,94101,789,C,US,REF003
+LG,Laura,Grace,Williams,1975-02-14,Houston,713-555-1234,laura.williams@example.com,77001,122,D,US,REF004
+AP,Aaron,Phillip,Brown,1995-12-30,Chicago,312-555-5678,aaron.brown@example.com,60601,345,E,US,REF005
+SJ,Samantha,Jane,Jones,1988-11-02,Phoenix,602-555-7890,samantha.jones@example.com,85001,678,F,US,REF006
+GM,George,Michael,Miller,1970-04-20,Philadelphia,215-555-1234,george.miller@example.com,19101,901,G,US,REF007
+MD,Melissa,Diane,Davis,1980-01-15,San Antonio,210-555-5678,melissa.davis@example.com,78201,234,H,US,REF008
+JT,Jason,Troy,Garcia,1972-06-24,Dallas,214-555-7890,jason.garcia@example.com,75201,567,I,US,REF009
+EF,Evelyn,Faye,Rodriguez,1993-09-10,San Jose,408-555-1234,evelyn.rodriguez@example.com,95101,890,J,US,REF010
