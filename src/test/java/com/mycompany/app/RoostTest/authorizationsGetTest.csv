@@ -1,0 +1,11 @@
+URL,authorization,token,user-agent,accept,postman-token,host,accept-encoding,connection
+/authorizations,xyz,sd,PostmanRuntime/7.32.3,*/*,f4886a00-f329-47e8-9e1f-7b889d85f003,0.0.0.0:4012,gzip, deflate, br,keep-alive
+/authorizations1,zyx,ds,PostmanRuntime/7.31.3,*/*,e4886a00-f339-47e8-9e1f-7b889d85f004,0.0.0.0:4013,gzip, deflate, br,keep-active
+/authorizations2,yyx,dd,PostmanRuntime/7.30.3,*/*,d4886a00-f349-47e8-9e1f-7b889d85f005,0.0.0.0:4014,gzip, deflate, lz,keep-idle
+/authorizations3,zxy,ds,PostmanRuntime/7.29.3,*/*,c4886a00-f359-47e8-9e1f-7b889d85f006,0.0.0.0:4015,gzip, deflate, br,keep-reconnect
+/authorizations4,xzy,sd,PostmanRuntime/7.28.3,*/*,b4886a00-f369-47e8-9e1f-7b889d85f007,0.0.0.0:4016,gzip, deflate, lz,keep-reverse
+/authorizations5,yxz,ds,PostmanRuntime/7.27.3,*/*,a4886a00-f379-47e8-9e1f-7b889d85f008,0.0.0.0:4017,gzip, deflate, lz,keep-close
+/authorizations6,xyx,dd,PostmanRuntime/7.26.3,*/*,94886a00-f389-47e8-9e1f-7b889d85f009,0.0.0.0:4018,gzip, deflate, br,keep-reload
+/authorizations7,xyz,ss,PostmanRuntime/7.32.2,*/*,84886a00-f399-47e8-9e1f-7b889d85f010,0.0.0.0:4019,gzip, deflate, br,keep-terminate
+/authorizations8,zyx,ds,PostmanRuntime/7.32.1,*/*,74886a00-f309-47e8-9e1f-7b889d85f011,0.0.0.0:4020,gzip, deflate, br,keep-load
+/authorizations9,yyx,dd,PostmanRuntime/7.32.0,*/*,64886a00-f319-47e8-9e1f-7b889d85f012,0.0.0.0:4021,gzip, deflate, br,keep-reject

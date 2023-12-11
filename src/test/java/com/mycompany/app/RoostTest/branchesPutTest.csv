@@ -1,0 +1,11 @@
+cocNumber,cocBranchNumber,city,tradeName,phone,email
+COC1001,BR1024,New York,TradeX,1234567890,traderx@email.com
+COC1002,BR1025,Los Angeles,TradeY,2345678901,tradery@email.com
+COC1003,BR1026,Chicago,TradeZ,3456789012,traderz@email.com
+COC1004,BR1027,Houston,TradeA,4567890123,tradera@email.com
+COC1005,BR1028,Phoenix,TradeB,5678901234,traderb@email.com
+COC1006,BR1029,Philadelphia,TradeC,6789012345,traderc@email.com
+COC1007,BR1030,San Antonio,TradeD,7890123456,traderd@email.com
+COC1008,BR1031,San Diego,TradeE,8901234567,tradere@email.com
+COC1009,BR1032,Dallas,TradeF,9012345678,traderf@email.com
+COC1010,BR1033,San Jose,TradeG,1023456789,traderg@email.com

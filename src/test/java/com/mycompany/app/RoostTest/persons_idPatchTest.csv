@@ -1,0 +1,11 @@
+initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference
+JK,John,Kennedy,Smith,1990-05-12,New York,1234567890,jksmith@gmail.com,10001,56,A,US,REF001
+MD,Mary,Davidson,Johnson,1980-08-25,Boston,2345678901,mdjohnson@gmail.com,02215,23,B,US,REF002
+CL,Chris,Lopez,Gonzales,1975-12-05,Chicago,3456789012,clgonzales@gmail.com,60607,34,C,US,REF003
+BR,Bill,Rodriguez,Brown,1985-03-20,Houston,4567890123,brbrown@gmail.com,77002,45,D,US,REF004
+LA,Linda,Anderson,Garcia,1995-07-15,Phoenix,5678901234,lagarcia@gmail.com,85001,67,E,US,REF005
+TA,Tom,Adams,Davis,1970-11-30,Philadelphia,6789012345,tadavis@gmail.com,19019,78,F,US,REF006
+RM,Roger,Miller,Rodriguez,1987-02-10,San Antonio,7890123456,rmrodriguez@gmail.com,78201,89,G,US,REF007
+MK,Melissa,Kevin,Taylor,1976-06-30,San Diego,8901234567,mktaylor@gmail.com,92101,90,H,US,REF008
+PL,Peter,Lee,Lee,1981-01-20,Dallas,9012345678,pllee@gmail.com,75201,12,I,US,REF009
+MA,Mary,Ann,Hernandez,1972-05-20,San Jose,0123456789,mahernandez@gmail.com,95110,23,J,US,REF010

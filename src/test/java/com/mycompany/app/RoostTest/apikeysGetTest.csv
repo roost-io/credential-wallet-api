@@ -1,0 +1,11 @@
+UserID,FirstName,LastName,Email,Birthdate,Country,RegistrationDate
+1101,John,Doe,johndoe@gmail.com,1986-05-14,USA,2010-12-01
+1102,Jane,Doe,janedoe@yahoo.com,1990-11-21,Canada,2012-03-17
+1103,Robert,Smith,rsmith@hotmail.com,1982-09-10,UK,2009-07-08
+1104,Emily,Johnson,ejohnson@gmail.com,2000-02-29,Australia,2018-06-05
+1105,Alice,Williams,alice.williams@gmail.com,1995-06-25,Singapore,2013-12-15
+1106,Michael,Brown,mbrown@yahoo.com,1988-04-19,USA,2011-01-20
+1107,Sarah,Taylor,sarahtaylor@hotmail.com,1991-10-31,Canada,2014-08-23
+1108,William,Moore,wmoore@gmail.com,1983-07-22,UK,2010-05-04
+1109,Olivia,Jones,ojones@yahoo.com,1996-12-11,Australia,2015-04-14
+1110,James,Davis,james.davis@gmail.com,1997-03-05,Singapore,2016-09-02
