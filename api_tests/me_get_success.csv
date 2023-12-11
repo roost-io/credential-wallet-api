@@ -1,0 +1,11 @@
+email,did,name,settings,image,id,updatedAt,createdAt
+johndoe@example.com,DID1,John Doe,{'Volume': 'High'},https://cdn.example.com/img1.png,UUID1,2021-06-20T18:04:00,2021-06-20T18:03:00
+janedoe@example.com,DID2,Jane Doe,{'Brightness': 'Low'},https://cdn.example.com/img2.png,UUID2,2021-06-20T18:04:01,2021-06-20T18:03:01
+adamsmith@example.com,DID3,Adam Smith,{'Contrast': 'Medium'},https://cdn.example.com/img3.png,UUID3,2021-06-20T18:04:02,2021-06-20T18:03:02
+evewhite@example.com,DID4,Eve White,{'Color': 'Auto'},https://cdn.example.com/img4.png,UUID4,2021-06-20T18:04:03,2021-06-20T18:03:03
+martinblack@example.com,DID5,Martin Black,{'Balance': 'Standard'},https://cdn.example.com/img5.png,UUID5,2021-06-20T18:04:04,2021-06-20T18:03:04
+sarahgreen@example.com,DID6,Sarah Green,{'Volume': 'Mute'},https://cdn.example.com/img6.png,UUID6,2021-06-20T18:04:05,2021-06-20T18:03:05
+ronred@example.com,DID7,Ron Red,{'Brightness': 'High'},https://cdn.example.com/img7.png,UUID7,2021-06-20T18:04:06,2021-06-20T18:03:06
+lucyblue@example.com,DID8,Lucy Blue,{'Contrast': 'Low'},https://cdn.example.com/img8.png,UUID8,2021-06-20T18:04:07,2021-06-20T18:03:07
+jackgold@example.com,DID9,Jack Gold,{'Color': 'Black & White'},https://cdn.example.com/img9.png,UUID9,2021-06-20T18:04:08,2021-06-20T18:03:08
+emilypurple@example.com,DID10,Emily Purple,{'Balance': 'Boost'},https://cdn.example.com/img10.png,UUID10,2021-06-20T18:04:09,2021-06-20T18:03:09

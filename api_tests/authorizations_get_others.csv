@@ -1,0 +1,11 @@
+error_code,description,api_version,url,header_authorization,header_user_agent,request_received,error_encountered
+error/code1,Descriptive Error Message 1,1.0.0,/authorizations,xyz,PostmanRuntime/7.32.3,Yes,No
+error/code2,Descriptive Error Message 2,1.0.0,/authorizations/497f6eca-6276-4993-bfeb-53cbbbba6f08,abc,PostmanRuntime/7.32.3,Yes,Yes
+validation/email-pattern,Descriptive Error Message 3,1.0.0,/authorizations,mno,PostmanRuntime/7.32.3,Yes,No
+error/code3,Descriptive Error Message 4,1.0.0,/authorizations/497f6eca-6276-4993-bfeb-53cbbbba6f08,xyz,PostmanRuntime/7.32.3,Yes,Yes
+validation/email-pattern,Descriptive Error Message 5,1.0.0,/authorizations,xyz,PostmanRuntime/7.32.3,Yes,No
+error/code4,Descriptive Error Message 6,1.0.0,/authorizations/497f6eca-6276-4993-bfeb-53cbbbba6f08,xyz,PostmanRuntime/7.32.3,Yes,Yes
+error/code5,Descriptive Error Message 7,1.0.0,/authorizations,xyz,PostmanRuntime/7.32.3,Yes,No
+validation/email-pattern,Descriptive Error Message 8,1.0.0,/authorizations/497f6eca-6276-4993-bfeb-53cbbbba6f08,xyz,PostmanRuntime/7.32.3,Yes,Yes
+validation/email-pattern,Descriptive Error Message 9,1.0.0,/authorizations,xyz,PostmanRuntime/7.32.3,Yes,No
+error/code6,Descriptive Error Message 10,1.0.0,/authorizations/497f6eca-6276-4993-bfeb-53cbbbba6f08,xyz,PostmanRuntime/7.32.3,Yes,Yes

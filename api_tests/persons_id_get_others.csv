@@ -1,0 +1,11 @@
+id,api-version,error,description,value,field,schema_field
+1,1.0.0,error/code,Descriptive Error Message,,,
+2,1.0.0,validation/email-pattern,Descriptive Error Message,value1,field1,schema_field1
+3,1.0.0,error/code,Descriptive Error Message,,,
+4,1.0.0,validation/email-pattern,Descriptive Error Message,value2,field2,schema_field2
+5,1.0.0,error/code,Descriptive Error Message,,,
+6,1.0.0,validation/email-pattern,Descriptive Error Message,value3,field3,schema_field3
+7,1.0.0,error/code,Descriptive Error Message,,,
+8,1.0.0,validation/email-pattern,Descriptive Error Message,value4,field4,schema_field4
+9,1.0.0,error/code,Descriptive Error Message,,,
+10,1.0.0,validation/email-pattern,Descriptive Error Message,value5,field5,schema_field5

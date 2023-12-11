@@ -1,0 +1,11 @@
+id,token,createdAt,updatedAt,account.id,account.name,account.image,account.email
+f14d25e2-9fd6-42a5-9962-2af8913c1a76,1137a8a6-c3a5-4b2a-ab45-7be14c804208,2021-09-16T13:34:45Z,2021-09-20T10:53:12Z,33bd1b99-aadb-43cb-883f-66ad6251c8d0,John Doe,data:image/jpeg;base64,<clipped>,johndoe@example.com
+b7115a09-1ec8-44aa-9a63-b82733dd47c5,28922b74-4e98-4e15-8f18-8139b4d86d22,2021-09-15T10:12:32Z,2021-09-18T12:09:05Z,d3882062-8b2f-44e1-8640-0125958496fa,Jane Doe,data:image/jpeg;base64,<clipped>,janedoe@example.com
+30005ce6-b929-4b4a-a225-1be643fb4b11,79494f9a-dcb4-4fbf-a3a5-4e7df059264b,2021-09-17T14:54:23Z,2021-09-19T13:50:00Z,5aa5e988-4fe7-4a02-8993-7b2e81d4c285,James Brown,data:image/jpeg;base64,<clipped>,jamesbrown@example.com
+f6f45c37-6c16-410f-af5a-e1a40b0e1b8f,b4294d54-69ef-4cd1-9415-9187e95b345a,2021-09-16T12:22:42Z,2021-09-17T11:30:47Z,d13996b8-ed18-429a-8d70-178b3beb7908,Mary Johnson,data:image/jpeg;base64,<clipped>,maryjohnson@example.com
+d6372efb-2e28-4b29-8ff5-58161c6b2f0c,cd0fa0fd-23b6-4081-a5a3-8207d1f0d4c1,2021-09-19T15:41:03Z,2021-09-20T16:35:32Z,fd211a63-31ff-4ad2-9721-894a1b5fb01a,Richard Roe,data:image/jpeg;base64,<clipped>,richardroe@example.com
+5b03a779-7c52-4d24-9473-d236d27a5e33,30c1aa4e-126a-4fd8-b2dc-3fc6df415c0a,2021-09-15T09:30:12Z,2021-09-20T14:42:01Z,bdd35392-a6d8-4a93-9c55-1a65b0a31d2e,Jane Smith,data:image/jpeg;base64,<clipped>,janesmith@example.com
+197c1f43-ff9c-4dbc-b5e9-90be6a8f4fa6,ff1e7889-bac0-4c01-bea4-85cd5bb9b404,2021-09-18T10:04:00Z,2021-09-19T09:20:25Z,0d7b3d52-c8de-431a-8e4c-49c4b7847a51,Robert Johnson,data:image/jpeg;base64,<clipped>,robertjohnson@example.com
+ab6d6bca-2c81-4f72-a2b6-8faa4bafce37,d3892044-b606-4ed1-8aad-3e933ed96f6e,2021-09-18T09:15:11Z,2021-09-20T15:42:01Z,0a6e734a-6f3d-44ec-88c6-69d0daa0f945,Margaret Williams,data:image/jpeg;base64,<clipped>,margaretwilliams@example.com
+0c07b0e6-c432-4a56-a52e-b75c647beeb9,7aab5d6a-140b-4a61-ace2-10a765279d60,2021-09-15T14:34:11Z,2021-09-19T09:20:25Z,aa98828f-88ed-4b08-a1b6-8a9722514cc3,Elizabeth Brown,data:image/jpeg;base64,<clipped>,elizabethbrown@example.com
+24c63454-6d07-4f3f-ba90-34c3bb6d4a73,b88c8b65-1c6c-47c4-b9a3-a4ed5eab93dc,2021-09-16T10:20:43Z,2021-09-20T12:12:11Z,c4bc254f-3c56-42b7-bae4-44d45babe043,Michael Davis,data:image/jpeg;base64,<clipped>,michaeldavis@example.com

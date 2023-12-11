@@ -1,0 +1,13 @@
+field1,field2
+/api-version,1.0.0
+/user-agent,PostmanRuntime/7.32.3
+/accept,*/*
+/postman-token,4e4f77d9-8cdf-4901-9f75-003c2b851f21
+/host,0.0.0.0:4012
+/accept-encoding,gzip, deflate, br
+/connection,keep-alive
+/content-length,0
+/logout,null
+/HTTP SERVER,info
+/patch,/logout
+/error,https://stoplight.io/prism/errors#NO_METHOD_MATCHED_ERROR: Route resolved, but no method matched

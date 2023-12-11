@@ -1,0 +1,11 @@
+auth,token,user-agent,accept,host,accept-encoding,connection
+xyz,sd,PostmanRuntime/7.32.3,*/*,0.0.0.0:4012,gzip,keep-alive
+abc,123,PostmanRuntime/7.32.1,*/*,1.1.1.1:8012,deflate,close
+password,456,Postman,*/,127.0.0.1:8022,gzip,established
+null,tok123,Runtime/*,text/html,2.2.2.2:8032,br,open
+undefined,789,Chrome/*,application/json,3.3.3.3:8042,deflate,initialized
+xyz,null,Mozilla/*,application/xml,4.4.4.4:8052,gzip,keep-alive
+xyz,!,Firefox/*,text/plain,5.5.5.5:8062,br,established
+xyz,token1,null,*/*,6.6.6.6:8072,gzip,close
+xyz,token2,IE/*,application/javascript,7.7.7.7:8082,deflate,open
+xyz,token3,Opera/*,text/css,8.8.8.8:8092,br,initialized

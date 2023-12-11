@@ -1,0 +1,11 @@
+id,initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference
+1,AB,John,Doe,Smith,1989-11-23,New York,+14155552671,johnsmith@gmail.com,10011,12A,,US,JS19891123
+2,CD,Anna,Maria,Jones,1975-06-15,London,+447700900123,annajones@yahoo.co.uk,W1D,57B,,GB,AJ19750615
+3,EF,Chen,,Lee,1992-02-18,Shanghai,+8613912345678,chenlee@163.com,200000,25,,CN,CL19920218
+4,GH,Peter,Parker,Holmes,1993-07-30,Sydney,+61298765432,peterh@yahoo.com.au,2000,11A,,AU,PH19930730
+5,IJ,Carlos,De,Martinez,1981-03-12,Madrid,+34123456789,carlosmartinez@hotmail.com,28012,22B,,ES,CM19810312
+6,KL,Marie,,Peterson,1978-04-25,Paris,+33123456789,mariep@gmail.com,75001,33,,FR,MP19780425
+7,MN,Andrea,S.,Bianchi,1987-03-11,Rome,+39234567890,andreab@gmail.com,00118,12A,,IT,AB19870311
+8,OP,Sarah,Jane,Johnson,1972-12-12,Berlin,+491234567890,sarahj@yahoo.de,10115,78B,,DE,SJ19721212
+9,QR,Jamie,,Park,1985-01-31,Seoul,+821012345678,jamiepark@naver.com,08826,22,,KR,JP19850131
+10,ST,Oliver,T.,Brown,1990-06-03,Ottawa,+16135551234,oliverbrown@rogers.com,K1A 0B1,45A,,CA,OB19900603

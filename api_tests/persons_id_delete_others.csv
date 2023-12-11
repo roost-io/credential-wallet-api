@@ -1,0 +1,11 @@
+id,description,error,api-version,application,json,schema_field,value
+1,Authentication Required,error/code,1.0.0,application/json,object,type,Value1
+2,Bad Request,validation/email-pattern,1.2.3,application/json,object,field,value2
+3,Authentication Required,error/code,1.0.0,application/json,object,schema_field,Value3
+4,Bad Request,validation/email-pattern,1.1.1,application/json,object,field,value4
+5,Authentication Required,validation/email-pattern,1.0.2,application/json,object,schema_field,Value5
+6,Bad Request,error/code,1.0.0,application/json,object,field,value6
+7,Authentication Required,validation/email-pattern,1.0.0,application/json,object,type,value7
+8,Bad Request,error/code,1.3.3,application/json,object,field,Value8
+9,Authentication Required,validation/email-pattern,1.0.0,application/json,object,schema_field,Value9
+10,Bad Request,error/code,1.0.0,application/json,object,field,Value10

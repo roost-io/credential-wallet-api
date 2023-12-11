@@ -1,0 +1,11 @@
+tradeName,phone,email
+BestBuy,123456789,bestbuy@example.com
+TraderJoes,987654321,traderjoes@example.com
+Starbucks,,starbucks@example.com
+Amazon,111222333,
+Microsoft,444555666,microsoft@example.com
+Apple,777888999,apple@example.com
+Costco,222444666,
+,555777999,undefined@example.com
+Oracle,333666999,oracle@example.com
+Tesla,,tesla@example.com

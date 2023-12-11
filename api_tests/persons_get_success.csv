@@ -1,0 +1,11 @@
+api-version,page-size,page-offset,id,initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference,createdAt,updatedAt
+1.0.0,10,1,b5f01a62-2711-4388-b8c8-6c7c6ee6c625,JD,John,Doe,Smith,1970-01-01,London,1234567890,johnsmith@gmail.com,SW1A1AA,10,A,GB,JS.1,2022-05-11T08:35:00Z,2022-05-11T08:35:00Z
+1.0.0,10,2,d2c46aa9-1da9-444d-b503-f131882a6500,AD,Amy,Doe,Davis,1980-02-02,Manchester,0987654321,amydavis@gmail.com,M135AD,20,B,GB,AD.2,2022-05-11T08:36:00Z,2022-05-11T08:36:00Z
+1.0.0,10,3,ee5405b7-e5f8-4af6-a835-af3422bb5f38,GJ,George,Johnson,Jones,1990-03-03,Liverpool,5678901234,georgejones@gmail.com,L18JJ,30,C,GB,GJ.3,2022-05-11T08:37:00Z,2022-05-11T08:37:00Z
+1.0.0,10,4,a124e214-5299-4f33-90f0-6c44b0985295,MB,Mike,Brooks,Brown,2000-04-04,Leeds,4545454545,mikebrown@gmail.com,LS15HB,40,D,GB,MB.4,2022-05-11T08:38:00Z,2022-05-11T08:38:00Z
+1.0.0,10,5,799fb5d8-cf91-4cb0-920b-3e3bd2f2fd75,SJ,Sarah,Johnson,James,1975-05-05,Birmingham,5656565656,sarahjames@gmail.com,B45JJ,50,E,GB,SJ.5,2022-05-11T08:39:00Z,2022-05-11T08:39:00Z
+1.0.0,10,6,04a34bdc-3c95-42b4-b708-b1c39f0a0cae,RM,Robert,Miller,Moore,1985-06-06,Glasgow,7878787878,robertmoore@gmail.com,G61RM,60,F,GB,RM.6,2022-05-11T08:40:00Z,2022-05-11T08:40:00Z
+1.0.0,10,7,1a8bf44f-9b13-4952-8aee-77b593d4c5e7,TJ,Thomas,Jackson,Jordan,1995-07-07,Sheffield,9898989898,thomasjordan@gmail.com,S67TJ,70,G,GB,TJ.7,2022-05-11T08:41:00Z,2022-05-11T08:41:00Z
+1.0.0,10,8,a6a4da91-be4f-48f4-94cb-6acab8605fa2,MJ,Michael,Johnson,Jackson,2005-08-08,Bradford,1212121212,michaeljackson@gmail.com,BD89MJ,80,H,GB,MJ.8,2022-05-11T08:42:00Z,2022-05-11T08:42:00Z
+1.0.0,10,9,a0453b6d-bcbb-4bdc-9aa7-41774a6cbe5b,LJ,Linda,Jackson,Johnson,1975-09-09,Cardiff,0101010101,lindajohnson@gmail.com,CF229LJ,90,I,GB,LJ.9,2022-05-11T08:43:00Z,2022-05-11T08:43:00Z
+1.0.0,10,10,77d9ed04-616c-44e9-9951-c44177b040db,KD,Karen,Davies,Kalous,1985-10-10,Belfast,0202020202,karendavies@gmail.com,BT67KD,100,J,GB,KD.10,2022-05-11T08:44:00Z,2022-05-11T08:44:00Z

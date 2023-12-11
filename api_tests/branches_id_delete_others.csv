@@ -1,0 +1,11 @@
+API-version,error,description,value,field,schema_field
+1.0.0,error/code,Descriptive Error Message,200,field1,schema_field1
+1.0.0,validation/email-pattern,Descriptive Error Message,450,field2,schema_field2
+1.0.0,error/code,Descriptive Error Message,112,field3,schema_field3
+1.0.0,validation/email-pattern,Descriptive Error Message,782,field4,schema_field4
+1.0.0,error/code,Descriptive Error Message,349,field5,schema_field5
+1.0.0,validation/email-pattern,Descriptive Error Message,543,field6,schema_field6
+1.0.0,error/code,Descriptive Error Message,675,field7,schema_field7
+1.0.0,validation/email-pattern,Descriptive Error Message,443,field8,schema_field8
+1.0.0,error/code,Descriptive Error Message,332,field9,schema_field9
+1.0.0,validation/email-pattern,Descriptive Error Message,975,field10,schema_field10
