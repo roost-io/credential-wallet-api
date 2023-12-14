@@ -1,0 +1,5 @@
+email,statusCode,scenario
+user1@example.com,201,Successful responses: Created
+user2@example.com,201,Successful responses: Created
+user3@example.com,400,Client error responses: Bad Request
+user4@example.com,400,Client error responses: Bad Request
