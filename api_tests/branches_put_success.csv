@@ -1,0 +1,11 @@
+cocNumber,cocBranchNumber,city,tradeName,phone,email
+12345678,123456789012,London,Acme Corp,1234567890,acme@acme.com
+23456789,234567890123,Paris,Luigi Inc,2345678901,luigi@luigi.com
+34567890,345678901234,Madrid,Mario Ltd,3456789012,mario@mario.com
+45678901,456789012345,Rome,Peach Co,4567890123,peach@peach.com
+56789012,567890123456,Berlin,Bowser GmbH,5678901234,bowser@bowser.com
+67890123,678901234567,Vienna,Wario AG,6789012345,wario@wario.com
+78901234,789012345678,Prague,Waluigi a.s.,7890123456,waluigi@waluigi.com
+89012345,890123456789,Budapest,Yoshi Kft,8901234567,yoshi@yoshi.com
+90123456,901234567890,Warsaw,Toad Sp. z o.o.,9012345678,toad@toad.com
+01234567,012345678901,Oslo,Daisy AS,0123456789,daisy@daisy.com

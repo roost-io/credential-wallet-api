@@ -1,0 +1,11 @@
+initials,firstName,birthDate,lastName,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode
+MK,Mike,1985-12-30,Klein,Amsterdam,0634210978,mike.klein@email.com,1012NV,21a,NL
+JC,John,1990-06-15,Carter,New York,1234567890,john.carter@mail.com,10001,150,US
+SB,Susan,1972-04-28,Black,London,9876543210,susan.black@mail.co.uk,WC2N,100,GB
+DV,Dave,2001-01-02,Vaughn,Toronto,4567891230,dave.vaughn@mail.ca,M5V,450A,CA
+MD,Mary,1956-03-16,Doe,Paris,2131567890,mary.doe@mail.fr,75001,22,FR
+LG,Lisa,1975-08-20,Gonzalez,Madrid,3216549870,lisa.gonzalez@mail.es,28001,789b,ES
+TM,Thomas,1988-05-19,Miller,Berlin,1597534862,thomas.miller@mail.de,10115,24a,DE
+EK,Emma,1999-06-13,Knight,Rome,9517538624,emma.knight@mail.it,00187,360,IT
+KH,Kate,1982-07-26,Hudson,Prague,8529637410,kate.hudson@mail.cz,11000,18,CZ
+RJ,Robert,1965-09-01,Johnson,Brussels,7539518624,robert.johnson@mail.be,1000,1,BE

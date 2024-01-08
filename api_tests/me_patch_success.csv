@@ -1,0 +1,11 @@
+name,image,settings
+John1,data:image/jpeg;base64,iVBORw0KGgy==,{"color":"blue","font":"arial"}
+John2,data:image/jpeg;base64,jBGORw0yKGgy==,{"color":"red","font":"times"}
+John3,data:image/jpeg;base64,hVBORw0rKGgy==,{"color":"green","font":"courier"}
+John4,data:image/jpeg;base64,iVBORw0fpKGgy==,{"color":"purple","font":"verdana"}
+John5,data:image/jpeg;base64,uUBORwtKGgy==,{"color":"orange","font":"helvetica"}
+John6,data:image/jpeg;base64,iVBORw0pKGgy==,{"color":"yellow","font":"georgia"}
+John7,data:image/jpeg;base64,cVBORw0YGgy==,{"color":"black","font":"palatino"}
+John8,data:image/jpeg;base64,iVBoRw0KGgy==,{"color":"white","font":"futura"}
+John9,data:image/jpeg;base64,nVBORw0PKDgy==,{"color":"brown","font":"didot"}
+John10,data:image/jpeg;base64,iVBRw0KGgpy==,{"color":"pink","font":"geneva"}

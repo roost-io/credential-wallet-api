@@ -1,0 +1,11 @@
+birthDate,initials,lastName,firstName,middleName,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference
+1990-02-12,JD,Smith,John,Doe,New York,1234567890,johnsmith@gmail.com,12345,12,A,US,ABC123
+1985-05-15,AJ,Johnson,Alex,James,Los Angeles,0987654321,alexjohnson@gmail.com,54321,21,B,US,DEF456
+1977-11-30,MB,Brown,Mike,Bob,San Francisco,1122334455,mikebob@gmail.com,23456,34,C,US,GHI789
+1980-03-21,LR,Rodriguez,Lucy,Rose,Chicago,2233445566,lucyrodriguez@gmail.com,45678,45,D,US,JKL012
+1995-08-04,MP,Parker,Megan,Pearl,Houston,3344556677,meganpearl@gmail.com,56789,56,E,US,MNO345
+1988-10-09,TK,Kim,Tom,Kenny,Austin,4455667788,tomkenny@gmail.com,67890,67,F,US,PQR678
+1975-07-14,CW,Williams,Cara,Will,Las Vegas,5566778899,carawill@gmail.com,78901,78,G,US,STU901
+1992-01-19,EH,Harris,Emma,Harry,Dallas,6677889900,emmaharry@gmail.com,89012,89,H,US,VWX234
+1983-06-22,FB,Baker,Frank,Bill,Portland,7788990011,frankbill@gmail.com,90123,90,I,US,YZA567
+1970-09-27,GL,Lee,George,Lenny,Seattle,8899001122,georgelenny@gmail.com,01234,01,J,US,BCD890

@@ -1,0 +1,11 @@
+id,initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference
+1,AB,John,N.,Doe,1980-12-20,New York,202-555-0181,johndoe@gmail.com,10001,51,A,US,John Doe
+2,CD,Michael,,Smith,1975-06-15,Los Angeles,310-555-0156,michael.smith@gmail.com,90210,100,B,US,Michael Smith
+3,EF,Emily,James,Johnson,1990-04-21,Chicago,312-555-0130,emily.johnson@yahoo.com,60007,150,C,US,Emily Johnson
+4,GH,Patricia,L.,Brown,1955-10-30,San Francisco,415-555-0199,patricia.brown@hotmail.com,94101,723,,US,Patricia Brown
+5,IJ,Robert,,Davis,2000-01-26,Houston,713-555-0123,robert.davis@gmail.com,77002,33,D,US,Robert Davis
+6,LM,Daniel,Lee,Wilson,1987-07-17,Phoenix,602-555-0144,daniel.leewilson@gmail.com,85001,10,E,US,Daniel Wilson
+7,NO,Mary,Ann,Miller,1992-08-09,Philadelphia,484-555-0166,mary.miller@yahoo.com,19103,204,F,US,Mary Miller
+8,PQ,James,Allen,Anderson,1976-03-01,San Antonio,210-555-0185,james.allen@yahoo.com,25,BR_DL,78155,1001,,US,James Allen
+9,RU,Elizabeth,Lena,Taylor,1965-05-05,San Diego,619-555-0198,elena.taylor@gmail.com,02215,22,G,US,Elizabeth Taylor
+10,VZ,Linda,,Thomas,1958-11-14,Dallas,214-555-0131,linda.thomas@hotmail.com,75201,456,H,US,Linda Thomas

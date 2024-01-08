@@ -1,0 +1,11 @@
+id,initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference
+1,JL,James,Lee,Jackson,1991-02-12,New York,1234567890,jjackson@gmail.com,10001,248,A,US,1A2B3C
+2,KD,Kate,Dallas,Smith,1985-07-06,Los Angeles,0987654321,ksmith@gmail.com,90001,304,,US,4D5E6F
+3,BM,Brian,Morris,Johnson,1974-08-29,Miami,1029384756,bjohnson@gmail.com,33101,408,B,US,7G8H9I
+4,LM,Lisa,Mars,Williams,1999-11-14,San Francisco,5647382910,lwilliams@gmail.com,94101,512,,US,0J1K2L
+5,TR,Tom,Rights,Moore,1981-04-15,Houston,4758391029,tmoore@gmail.com,77001,616,,US,7M8N9O
+6,SJ,Sarah,Jordans,Taylor,1992-04-07,Phoenix,3948572038,staylor@gmail.com,85001,720,D,US,2P3R4S
+7,JP,John,Paul,Anderson,2000-07-22,Philadelphia,7294851047,janderson@gmail.com,19104,824,C,US,5T6U7V
+8,AB,Anne,Bell,Thomas,1995-09-15,Seattle,1029384756,athomas@gmail.com,2435,928,,US,8W3X2Y
+9,KM,Kara,Mellows,Jackson,1978-06-21,Portland,7549831028,kjackson@gmail.com,97301,1032,A,US,1Z0A4B
+10,NF,Nick,Foreman,White,1980-03-10,Detroit,3829104756,nwhite@gmail.com,48201,1136,E,US,5C6D7E

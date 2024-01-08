@@ -1,0 +1,11 @@
+statusCode,field1,field2
+200,xyz,PostmanRuntime/7.32.3
+404,abc,PostmanRuntime/7.32.3
+500,xyz,Python urllib/3.7
+403,def,insomnia/2020.4.2
+400,abc,PostmanRuntime/7.32.3
+200,ghi,Curl/7.68.0
+302,jkl,Python-httplib2/0.15.0
+201,abc,PostmanRuntime/7.32.3
+200,xyz,PostmanRuntime/7.32.3
+405,uvw,PostmanRuntime/7.32.3

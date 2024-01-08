@@ -1,0 +1,11 @@
+id,tradeName,phone,email
+1,TradeCo,555-978-4567,tradeco@example.com
+2,TradeInc,555-123-4567,tradeinc@example.com
+3,,555-156-4567,
+4,BizCorp,555-189-4567,bizcorp@example.com
+5,EnterpriseLLC,555-595-4567,enterprisellc@example.com
+6,GlobalTrade,555-956-4567,globaltrade@example.com
+7,1234,407-667-4567,
+8,TestTrade,,testtrade@example.com
+9,BizTrade,555-938-2346,
+10,,,
