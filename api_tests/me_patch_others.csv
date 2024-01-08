@@ -1,0 +1,12 @@
+name,image,settings
+John,data:image/jpeg;base64,iVBORw0KG...,"{""darkMode"":""false""}"
+Peter,data:image/png;base64,iVBORw0KG...,"{""darkMode"":""true"",""fontSize"":""14px""}"
+Mary,data:image/gif;base64,R0lGODlh...,"{""darkMode"":""true"",""fontSize"":""12px"",""themeColor"":""blue""}"
+Anna,,,
+Mark,data:image/jpeg;base64,Qk1SAG...,NULL
+Laura,"invalid_value","{""darkMode"":""false""}"
+Ben,data:image/png;base64,iVBORw0KG,"invalid_value"
+Christine,,"{""darkMode"":""true"",""fontSize"":""16px""}"
+David,,"{""darkMode"":""false"",""themeColor"":""green""}"
+Emily,NULL,"{""themeColor"":""purple""}"
+Gabriel,NULL,

@@ -1,0 +1,11 @@
+email,settings,name,image
+johndoe@example.com,{'notification':'on','theme':'light'},John Doe,{'type':'jpeg','description':'Profile Image','format':'base64'}
+,{'notification':'off','theme':'dark'},David Johnson,{'type':'png','description':'','format':'base64'}
+aliceblue@example.com,{'notification':'on','theme':'light'},Alice Blue,
+martin.green@example.com,,Martin Green,{'type':'svg','description':'Profile Picture','format':'base64'}
+jackson@example.com,{'notification':'on','theme':'dark'},,{'type':'jpeg','description':'Picture','format':'base64'}
+,{'notification':'off','theme':'light'},Carl Black,{'type':'png','description':'Avatar Image','format':'base64'}
+rachelgreen@example.com,,,{'type':'jpeg','description':'Avatar','format':'base64'}
+danielpark@example.com,{'notification':'off','theme':'dark'},Daniel Park,
+william.brown@example.com,{'notification':'on','theme':'light'},William Brown,{'type':'svg','description':'Profile Photo','format':'base64'}
+jessicawhite@example.com,{'notification':'off','theme':'dark'},,{'type':'png','description':'','format':'base64'}

@@ -1,0 +1,11 @@
+size,offset,recipient-id,credential-url,statusCode
+845,1,a754f053-e4fe-3b2c-8556-56c8ef4e4e2d,/recipients/branches/497f6eca-6276-4993-bfeb-53cbbbba6f08/registrations,200
+537,2,145f6eca-6476-5993-cfeb-53cbbbba6f08,/recipients/branches/a754f053-e4fe-3b2c-8556-56c8ef4e4e2d/registrations,404
+689,3,736f6eca-2276-0993-hfeb-83cbbbba6d00,/recipients/branches/b563f054-9873-2b6c-8645-69c8ef4e4pqr/registrations,500
+932,2,b563f054-9873-2b6c-8645-69c8ef4e4pqr,/recipients/branches/736f6eca-2276-0993-hfeb-83cbbbba6d00/registrations,302
+768,1,445f6eca-lm76-8793-kfeb-13cbbbba5d57,/recipients/branches/d1233409-4567-2b6x-1234-19l8ef56hijk/registrations,403
+854,4,d1233409-4567-2b6x-1234-19l8ef56hijk,/recipients/branches/445f6eca-lm76-8793-kfeb-13cbbbba5d57/registrations,200
+934,2,777f6ecb-xz89-5890-dfer-11cbbbba6f00,/recipients/branches/y1234567-5678-2b8x-5555-23c3ef56hijk/registrations,301
+834,3,y1234567-5678-2b8x-5555-23c3ef56hijk,/recipients/branches/777f6ecb-xz89-5890-dfer-11cbbbba6f00/registrations,400
+570,4,123f6eca-xy76-3468-tfeb-94cbbbba6f18,/recipients/branches/z9871234-7654-2b1y-1334-42p8ef56hike/registrations,404
+987,1,z9871234-7654-2b1y-1334-42p8ef56hike,/recipients/branches/123f6eca-xy76-3468-tfeb-94cbbbba6f18/registrations,200

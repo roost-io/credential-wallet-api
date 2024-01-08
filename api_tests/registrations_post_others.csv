@@ -1,0 +1,11 @@
+id,reference,startDate,endDate,credentialUrl
+1,QS-10001,2021-07-31,,https://example.com/profiles/1/credentials
+2,QS-10002,2021-06-15,2022-06-15,https://example.com/profiles/2/credentials
+3,QS-10003,2021-06-01,,https://example.com/profiles/3/credentials
+4,QS-10004,2021-03-25,2022-03-25,https://example.com/profiles/4/credentials
+5,invalid-date,invalid,invalid,invalid
+6,QS-10005,2021-01-01,,https://example.com/profiles/5/credentials
+7,QS-10006,2021-02-14,,https://example.com/profiles/6/credentials
+8,QS-10007,2021-05-12,2022-05-12,https://example.com/profiles/7/credentials
+9,QS-10008,2021-04-22,2022-04-22,https://example.com/profiles/8/credentials
+10,QS-10009,2021-08-15,2022-08-15,https://example.com/profiles/9/credentials

@@ -1,0 +1,11 @@
+statusCode,api-version,URL,user-agent,accept,postman-token,host,accept-encoding,connection,content-length
+200,1.0.0,/logout,PostmanRuntime/7.32.3,*/*,4e4f77d9-8cdf-4901-9f75-003c2b851f21,0.0.0.0:4012,gzip, deflate, br,keep-alive,0
+200,1.0.0,/logout,PostmanRuntime/7.35.1,*/*,3d3d77a3-7baf-4566-babc-004a3b532f34,0.0.0.0:4015,gzip, deflate, br,keep-alive,0
+200,1.0.0,/logout,PostmanRuntime/7.36.0,*/*,5d5d66e2-8aaf-4446-babb-005b4b432d34,0.0.0.0:4017,gzip, deflate, br,keep-alive,0
+200,1.0.0,/logout,PostmanRuntime/7.37.0,*/*,6c6c66d2-9eaf-4476-baba-006c4b532e35,0.0.0.0:4020,gzip, deflate, br,keep-alive,0
+200,1.0.0,/logout,PostmanRuntime/7.38.0,*/*,7b7b66b2-a3af-4486-babe-007d4b432b35,0.0.0.0:4022,gzip, deflate, br,keep-alive,0
+200,1.0.0,/logout,PostmanRuntime/7.32.4,*/*,8f8f77e9-1cdf-4661-9e75-008c2a851d84,0.0.0.0:4025,gzip, deflate, br,keep-alive,0
+200,1.0.0,/logout,PostmanRuntime/7.32.2,*/*,9c9c77f8-8bdf-4511-9a75-009c2a851a94,0.0.0.0:4028,gzip, deflate, br,keep-alive,0
+200,1.0.0,/logout,PostmanRuntime/7.32.1,*/*,1b1b77e9-5bdf-4751-9985-00a2a851a28,0.0.0.0:4030,gzip, deflate, br,keep-alive,0
+200,1.0.0,/logout,PostmanRuntime/7.32.0,*/*,2e2e77d9-4cdf-4911-9e65-001c2a851e21,0.0.0.0:4033,gzip, deflate, br,keep-alive,0
+200,1.0.0,/logout,PostmanRuntime/7.31.1,*/*,3f3f77f9-7cdf-4921-9315-002c2a851f25,0.0.0.0:4035,gzip, deflate, br,keep-alive,0

@@ -1,0 +1,11 @@
+size,offset,name,birth_date,statusCode
+24,1,John Doe,1980-12-21,200
+32,2,Jane Doe,1985-06-18,201
+40,3,James Brown,1979-04-17,200
+26,4,Jessica Rabbit,1988-09-25,500
+38,5,Null,Null,300
+32,6,Elvis Presley,2100-11-08,400
+35,7,InvalidName,1920-10-05,200
+29,8,Emily Dickinson,895-23-54,500
+34,9,Zachary Taylor,1990-03-02,700
+27,10,Alan Turing,1912-23-06,404

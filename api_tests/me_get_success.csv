@@ -1,0 +1,11 @@
+id,did,name,image,email,settings,createdAt,updatedAt
+7e6d1b52-42a3-4c9a-a033-f757ac6ec240,UA5432,Alice Johnson,https://cdn.credentialregister.com/2571c54e-2cde-4434-83f2-c329f74adc27.png,alice.johnson@example.com,{},2021-09-01T13:45:30Z,2021-09-01T13:45:30Z
+8f2a7074-fa7e-4d63-8502-44d097c391d3,UA8101,Brian Smith,https://cdn.credentialregister.com/us39aacmex-cfb-893a-cf2f-57edc329f74adc27.png,brian.smith@example.com,{},2021-09-01T13:46:30Z,2021-09-01T13:46:30Z
+6c3d2b56-6d2c-4a1b-b823-446097c312f3,UA9765,Christina Brown,https://cdn.credentialregister.com/ushf5ac-2cb2-43bd-83f2-c329f74adc27.png,christina.brown@example.com,{},2021-09-01T13:47:30Z,2021-09-01T13:47:30Z
+2b3a9d8f-1c3d-4b31-9102-24d097c391b6,UAM5433,David Williams,https://cdn.credentialregister.com/w21cb-2ded81-43f34c329f74adc27.png,david.williams@example.com,{},2021-09-01T13:48:30Z,2021-09-01T13:48:30Z
+602a5d56-6e2c-4f1b-b64b-246087c240f3,MN6544,Emma Martin,https://cdn.credentialregister.com/e21cac-2cde-443h-83f2-c329f74adc27.png,emma.martin@example.com,{},2021-09-01T13:49:30Z,2021-09-01T13:49:30Z
+106a3a6f-4e7d-7f90-84f3-42d097c246b2,UA9445,Frank Miller,https://cdn.credentialregister.com/adh381ac-2cde-293r-83f4-c329f74adc27.png,frank.miller@example.com,{},2021-09-01T13:50:30Z,2021-09-01T13:50:30Z
+eb3a6b2f-744d-6a71-8d72-03d097c216b1,UA6544,Grace Lee,https://cdn.credentialregister.com/gh2y21ac-2cde-443h-83f6-c329f74adc27.png,grace.lee@example.com,{},2021-09-01T13:51:30Z,2021-09-01T13:51:30Z
+6a4b5135-19c5-44a1-bc04-1440f7c212f4,PH5436,Harry White,https://cdn.credentialregister.com/h21cac-2cde-443h-83f7-c329f74adc27.png,harry.white@example.com,{},2021-09-01T13:52:30Z,2021-09-01T13:52:30Z
+2e3b6d6e-9e9d-4a61-bf04-04d0e7c456b3,HJ5435,Irene Perez,https://cdn.credentialregister.com/ah4t9c-2cde-443r-83f9-c329f74adc27.png,irene.perez@example.com,{},2021-09-01T13:53:30Z,2021-09-01T13:53:30Z
+2f5b7d7f-8f16-4a42-be06-14d0f7c446b6,MN8544,Jack Moore,https://cdn.credentialregister.com/jkl987c-2cde-443r-83f4-c329f74adc27.png,jack.moore@example.com,{},2021-09-01T13:54:30Z,2021-09-01T13:54:30Z

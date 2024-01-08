@@ -1,0 +1,11 @@
+id,reference,startDate,endDate,credentialUrl
+1,C2039579,2018-09-04,2020-04-11,http://example.com/abc
+2,K2054622,2019-01-14,2021-08-21,http://example.com/def
+3,A1106787,2017-11-22,2020-12-06,http://example.com/ghi
+4,P1484315,2020-06-13,,http://example.com/jkl
+5,Q2038962,2019-05-24,2022-01-31,http://example.com/mno
+6,T8563924,2016-08-31,2022-03-04,http://example.com/pqr
+7,R7194538,2019-02-19,2020-07-26,http://example.com/stu
+8,D7708024,2020-04-20,2021-11-27,http://example.com/vwx
+9,M5081221,2018-12-05,,http://example.com/yzl
+10,G5263377,2017-10-05,2021-12-08,http://example.com/mnz
