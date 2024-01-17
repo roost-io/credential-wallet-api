@@ -1,0 +1,11 @@
+id,reference,startDate,endDate,credentialUrl
+497f6eca-6276-4993-bfeb-53cbbbba6f08,REF001,2022-01-01,2022-12-31,https://credentials.com/id/497f6eca-6276-4993-bfeb-53cbbbba6f08
+8f14e45fceea167a5a36dedd4bea2543,REF002,2022-02-01,2023-02-01,https://credentials.com/id/8f14e45fceea167a5a36dedd4bea2543
+c4c658b591d07080f632f1dfb6aa5a1e,REF003,2022-03-01,2023-03-01,https://credentials.com/id/c4c658b591d07080f632f1dfb6aa5a1e
+c74d97b01eae257e44aa9d5bade97baf,REF004,2022-04-01,2023-04-01,https://credentials.com/id/c74d97b01eae257e44aa9d5bade97baf
+6dcd4ce23d88e2ee95838f7b014b6284,REF005,2022-05-01,2023-05-01,https://credentials.com/id/6dcd4ce23d88e2ee95838f7b014b6284
+a5bfc9e07964f8dddeb95fc584cd965d,REF006,2022-06-01,2023-06-01,https://credentials.com/id/a5bfc9e07964f8dddeb95fc584cd965d
+2cb5d6d20c3e4e9b5ca9abe474578d3f,REF007,2022-07-01,2023-07-01,https://credentials.com/id/2cb5d6d20c3e4e9b5ca9abe474578d3f
+2cb5d6d20c3e4e9b5c22abe474578d3f,REF008,2022-08-01,2023-08-01,https://credentials.com/id/2cb5d6d20c3e4e9b5c22abe474578d3f
+2cb5d6d20c3e4e9b5c33abe474578d3f,REF009,2022-09-01,2023-09-01,https://credentials.com/id/2cb5d6d20c3e4e9b5c33abe474578d3f
+2cb5d6d20c3e4e9b5c44abe474578d3f,REF010,2022-10-01,2023-10-01,https://credentials.com/id/2cb5d6d20c3e4e9b5c44abe474578d3f

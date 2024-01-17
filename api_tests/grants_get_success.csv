@@ -1,0 +1,11 @@
+accountEmail,accountId,imageName,name
+alice@example.com,44d93085-aca2-4bac-b802-9b1235745071,data:image/jpeg;base64,Alice
+bob@example.com,02eaf4f5-4ae3-42c6-a293-3f8e023f8c2f,data:image/jpeg;base64,Bob
+carol@example.com,446bc1cc-5c2f-4c47-870f-569305616ca8,data:image/jpeg;base64,Carol
+dave@example.com,016a9c2f-00a1-4f35-a290-766b9b340786,data:image/jpeg;base64,Dave
+eve@example.com,0e6dfc60-01b4-46c7-a270-4869747c6c7f,data:image/jpeg;base64,Eve
+frank@example.com,07f21c94-f1a4-492f-a671-8019e8beacda,data:image/jpeg;base64,Frank
+grace@example.com,0cdbfe94-ffb1-4fdf-bf0a-953ee1db8e27,data:image/jpeg;base64,Grace
+heidi@example.com,02f14644-acae-4c15-8124-4af5323b2fd1,data:image/jpeg;base64,Heidi
+ivan@example.com,02999344-36c2-495f-805b-30bf3286eeca,data:image/jpeg;base64,Ivan
+judy@example.com,02ac9354-acae-4b3a-a2ed-b9558eff8d19,data:image/jpeg;base64,Judy
