@@ -1,0 +1,11 @@
+id,did,name,image,email,settings,createdAt,updatedAt
+0e8d3263-a5bc-4543-b035-1b70a0b70a18,1234,John Doe,http://example.com/image.png,johndoe@example.com,{language: en},2022-02-11T00:00:00Z,2022-03-13T00:00:00Z
+bc313913-9b2d-42a8-bbea-0d8a3e3e8338,5678,Jane Doe,http://example.com/image2.png,janedoe@example.com,{language: es},2022-01-12T00:00:00Z,2022-03-12T00:00:00Z
+01aed2e7-42f7-4522-b274-5e97e7bb9c9b,9102,Bob Smith,http://example.com/image3.png,bobsmith@example.com,{language: fr},2022-02-05T00:00:00Z,2022-03-18T00:00:00Z
+b83106f4-2cb1-4ab3-be6e-69d3b01f093d,1111,Alan Turing,http://example.com/image4.png,turing@example.com,{language: de},2022-02-14T00:00:00Z,2022-03-14T00:00:00Z
+1f85f897-98d7-4a4e-a5a2-94e2540c8ad8,1213,Rene Descartes,http://example.com/image5.png,descartes@example.com,{language: nl},2022-01-22T00:00:00Z,2022-03-05T00:00:00Z
+9a8f8c7d-7f8e-472e-899d-1f58a1cfbd16,1314,Grace Hopper,http://example.com/image6.png,hopper@example.com,{language: it},2022-02-16T00:00:00Z,2022-03-11T00:00:00Z
+45ed3f9b-4305-4dac-a6ba-8464ad928da4,1415,Ada Lovelace,http://example.com/image7.png,lovelace@example.com,{language: en},2022-01-17T00:00:00Z,2022-03-10T00:00:00Z
+eec296ad-fc58-4638-a662-e74f6368e3a8,2324,Albert Einstein,http://example.com/image8.png,einstein@example.com,{language: de},2022-02-20T00:00:00Z,2022-03-15T00:00:00Z
+53f2edd9-9bdd-4b25-8c2e-c5354feabee6,2526,Isaac Newton,http://example.com/image9.png,newton@example.com,{language: en},2022-01-29T00:00:00Z,2022-03-19T00:00:00Z
+84919dcc-08b1-4317-a483-ce9e0ec1f8b6,2627,Leonardo da Vinci,http://example.com/image10.png,davinci@example.com,{language: it},2022-02-27T00:00:00Z,2022-03-17T00:00:00Z

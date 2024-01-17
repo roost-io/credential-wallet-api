@@ -1,0 +1,11 @@
+birthDate,initials,lastName,firstName,middleName,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference
+1957-05-21,JB,Smith,John,Brandon,New York,+1-212-555-0173,JohnBSmith@email.com,10013,426,B,US,REF723428
+1974-11-08,LM,Jones,Lucy,Mary,London,+44-20-1234-5678,LucyMJones@email.co.uk,SE1 9GF,91,A,UK,REF736482
+1989-02-16,TK,Miller,Tom,Kenneth,Chicago,+1-312-555-0184,TomKMiller@email.com,60603,714,,US,REF762913
+1970-10-05,AS,Davis,Alice,Susan,Sydney,+61-2-5550-1234,AliceSDavis@email.com.au,2000,22,C,AU,REF789342
+1962-11-22,GP,Martin,George,Paul,Paris,+33-1-5555-3984,GeorgePMartin@email.fr,75001,669,D,FR,REF723891
+1991-07-14,RR,Taylor,Richard,Ryan,Tokyo,+81-3-5555-7291,RichardRTaylor@email.jp,100-0001,389,,JP,REF747163
+1980-03-17,CR,Anderson,Charlotte,Rose,Berlin,+49-30-5550-3871,CharlotteRAnderson@email.de,10115,310,E,DE,REF794216
+1968-03-05,JM,Thomas,James,Michael,Rome,+39-55-555-4657,JamesMThomas@email.it,00118,22,F,IT,REF767367
+1975-09-25,OA,Jackson,Olivia,Anne,Madrid,+34-91-555-7891,OliviaAJackson@email.es,28001,95,G,ES,REF764289
+1960-04-20,EM,White,Elizabeth,Margaret,Moscow,+7-495-555-7391,ElizabethMWhite@email.ru,101000,220,H,RU,REF798236

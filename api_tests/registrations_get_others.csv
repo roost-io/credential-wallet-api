@@ -1,0 +1,11 @@
+id,credential-url,size,offset,statusCode
+497f6eca-6276-4993-bfeb-53cbbbba6f08,https://mywebsite/api/accounts,35,0,200
+a2d7eca-4567-8908-gdeb-34b789sde5t5,https://mywebsite/api/branches,15,1,201
+ca3weca-98za-1236-mklb-67y898plboom,https://mywebsite/api/registrations,49,2,202
+b4a9aca-6754-4421-grtr-76re900sdrt5,https://mywebsite/api/transfer,50,3,403
+c5c8fda-5432-1978-abcd-12iu9890wed6,https://mywebsite/api/deposit,33,4,404
+d6e6bda-9982-7666-cccd-56yys898sdnt7,https://mywebsite/api/withdraw,27,5,500
+e7f7eda-1105-3333-dddd-23po9890vcba8,https://mywebsite/api/balance,34,6,503
+f8g8hda-8523-4322-eeee-98jk9890xysr9,https://mywebsite/api/users,44,5,504
+g9i9ida-5636-5612-ffff-34ho9890plws10,https://mywebsite/api/profiles,11,0,200
+h1j1kda-4525-4562-gggg-11so9890nmdp11,https://mywebsite/api/transactions,39,1,301

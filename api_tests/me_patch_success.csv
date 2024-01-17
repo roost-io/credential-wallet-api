@@ -1,0 +1,11 @@
+name,image,settings
+John Doe,data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADoCAYAAADgnRsJAAAAGXRFWHRTb2Z0d2FyZQd6Ky1DdJ1tzgAAAyFJREFUeNrs3Q...,{"language": "en", "notifications": true}
+Jane Smith,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAAAAAAD/4QA2RXhpZgAASUkqAAgAAAAHAAABAwABAAA...,{"language": "es", "notifications": false}
+Mike Johnson,data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=,{"language": "fr", "notifications": true}
+Emma Watson,data:image/png;base64,iVBORw6hhfejifjddAAANSUhEUgAAAMgAAADICAYAAADgnRsJAAAAGXRFWHRTb2Z0d2FyZQd6Ky1fhfG1tzgAAAyFJREFUeNrs3Q...,{"language": "de", "notifications": false}
+William Brown,data:image/jpeg;base64,/9j/4AAQdhfjDHdfgABAQEAAAAAAAD/4QA2RXhpZgAASUkqAAgAAAAHAAABAwABAAA...,{"language": "it", "notifications": true}
+Sophia Davis,data:image/gif;base64,R0lGODdhAQABghyuiPAAAMPDwwAAACwAAAAAAQABAAACAkghpBDGs=,{"language": "ru", "notifications": false}
+Michael Green,data:image/png;base64,iVBORw0KGfkjfjAAANSUhEUgAAAMgAAADoCAYAAADgnRsJAAAAGXghjRTb2Z0d2FyZQd6Ky1CqqwtzgAAAyFJREFUeNrs3Q...,{"language": "pt", "notifications": true}
+Emily Jackson,data:image/jpeg;base64,/9j/4AAQSkZJRghjfyABAQEAAAAAAAD/4QA2RXhpZgAASUkqAAgAAAAHAAABAwABAAA...,{"language": "cn", "notifications": false}
+Emma White,data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACdfzfgADs=,{"language": "jp", "notifications": true}
+Alexander Taylor,data:image/png;base64,iVBORddssw0KGgoAAAANSUhEUgAAAMgAAADoCAYAAADgnRsJAAAAGXsyjRTb2Z0d2FyZQd6Ky1dshfwtzgAAAyFJREFUeNrs3Q...,{"language": "ar", "notifications": false}

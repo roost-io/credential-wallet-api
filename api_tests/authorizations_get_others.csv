@@ -1,0 +1,11 @@
+statusCode
+HTTP 200 OK
+HTTP 400 Bad Request
+HTTP 500 Internal Server Error
+HTTP 201 Created
+HTTP 404 Not Found
+HTTP 500 Internal Server Error
+HTTP 403 Forbidden
+Invalid Status Code
+HTTP 200 OK
+HTTP 301 Moved Permanently
