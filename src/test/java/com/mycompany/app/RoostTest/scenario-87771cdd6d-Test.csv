@@ -1,0 +1,3 @@
+METHOD^|^URL^|^REQ_HEADERS^|^REQ_BODY^|^RESPONSE_CODE^|^RESPONSE_BODY
+DELETE^|^http://localhost:8080/authorizations/ID^|^{"Token": "Your API Key"}^|^{}^|^200^|^{"message": "authorization ID removed successfully"}
+GET^|^http://localhost:8080/authorizations^|^{"Token": "Your API Key"}^|^{}^|^200^|^{"total": 0, "authorizations": []}
