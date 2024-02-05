@@ -1,0 +1,11 @@
+id,credential-url,size,offset,statusCode
+497f6eca-6276-4993-bfeb-53cbbbba6f08,http://someurl.com,20,0,200
+a1668eca-2d76-4339-afea-68cbbbba6f23,http://invalid,50,10,200
+e23f7eca-3666-4793-bfee-16cbbbba6f85,http://someurl.com,1,-1,200
+cd7f6bra-6276-4893-cfeb-44cbbbba6f02,http://someurl.com,0,0,400
+7f9f7eca-2276-4993-bfeb-53cbbbba6f08,http://othersite.com,15,0,404
+8k7f6eca-1176-4553-bfeb-53cbbbba669f,http://hisite.com,102,10,204
+397f6eca-6776-9913-kfeb-88cbbbba6h33,http://mysite.com,20,20,301
+497a1eca-6276-3333-octb-53cbbbba6t66,http://nexturl.com,30,30,415
+d97f6eca-6816-4993-bfeb-999bbbba6f70,http://finalurl.com,40,-30,303
+zzzf6eca-6211-9993-bffb-53cbbbba6f11,http://lasturl.com,100,0,500

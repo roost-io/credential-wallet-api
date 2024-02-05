@@ -1,0 +1,11 @@
+client,email,otp
+Z,a@zb.io,123456
+A,sample@mail.com,789012
+B,user@invalid,!
+C,invalid!,123abc
+D,,123456
+G,human@world.com,
+,H,i76543
+J,value@not.com,value
+,test@mail.com,test123
+empty@otp.com,

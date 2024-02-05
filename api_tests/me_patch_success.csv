@@ -1,0 +1,11 @@
+name,image,settings
+John,data:image/jpeg;base64,/{'theme':'dark','language':'english'}
+Amy,data:image/png;base64,/{'theme':'light','language':'french'}
+Mike,null,/{'theme':'dark','language':'spanish'}
+Sarah,data:image/gif;base64,/{'theme':'light','language':'english'}
+Martin,data:image/jpeg;base64,/{'theme':'dark','language':'german'}
+Rebecca,null,/{'theme':'light','language':'italian'}
+Scott,data:image/png;base64,/{'theme':'dark','language':'french'}
+Emily,null,/{'theme':'light','language':'english'}
+Justin,data:image/gif;base64,/{'theme':'dark','language':'spanish'}
+Olivia,data:image/jpeg;base64,/{'theme':'light','language':'german'}

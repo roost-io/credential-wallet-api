@@ -1,0 +1,11 @@
+id,reference,startDate,endDate,credentialUrl
+9218cbbb-99c4-494b-803b-ebbade2deab2,CJ102,2021-01-01,2021-12-31,http://credentials.example.com/CJ102
+6db84bb8-2d4f-48f1-8cee-06ed1f9d1c6e,YT687,2021-02-01,2021-11-30,http://credentials.example.com/YT687
+fcdc50b8-2484-4b5d-816d-91b8f35a83cd,FT398,2021-03-01,2021-10-31,http://credentials.example.com/FT398
+45a2da2e-6f8f-42b9-872e-5b16bc9123a3,BM405,2021-04-01,2022-03-31,http://credentials.example.com/BM405
+da5aceb1-9cae-4ead-bebe-90ef23deafe6,VR103,2021-05-01,2022-04-30,http://credentials.example.com/VR103
+e1c105da-7cb7-43f7-97ca-a9cb466b49d4,GX915,2021-06-01,2022-05-31,http://credentials.example.com/GX915
+f2ed779b-4795-43e8-863b-e6493a6a53ea,PQ809,2021-07-01,2022-06-30,http://credentials.example.com/PQ809
+04fcaf3f-2702-49b7-a90d-2c926fdd0ef5,TW736,2021-08-01,2022-07-31,http://credentials.example.com/TW736
+77c8d3a1-bcfa-4612-9c48-97a0c982a744,BC624,2021-09-01,2022-08-31,http://credentials.example.com/BC624
+dc667704-99d1-4b02-81f1-052df0e628ea,KM294,2021-10-01,2022-09-30,http://credentials.example.com/KM294

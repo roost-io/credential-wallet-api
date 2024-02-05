@@ -1,0 +1,11 @@
+id,image,email,settings,createdAt,updatedAt
+1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4bed,https://cdn.credentialregiater.com/2571c54e-2cde-4434-83f2-c329f74adc27.png,user1@example.com,{language:'English'},2022-07-01T10:00:00Z,2022-07-02T15:00:00Z
+2b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4bed,https://cdn.credentialregiater.com/2571c54e-2cde-4434-83f2-c329f74adc27.png,user2@example.com,{language:'Spanish'},2022-07-02T11:00:00Z,2022-07-02T16:00:00Z
+3b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4bed,https://cdn.credentialregiater.com/2571c54e-2cde-4434-83f2-c329f74adc27.png,user3@example.com,{language:'French'},2022-07-03T12:00:00Z,2022-07-02T17:00:00Z
+4b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4bed,https://cdn.credentialregiater.com/2571c54e-2cde-4434-83f2-c329f74adc27.png,user4@example.com,{language:'German'},2022-07-04T13:00:00Z,2022-07-02T18:00:00Z
+5b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4bed,https://cdn.credentialregiater.com/2571c54e-2cde-4434-83f2-c329f74adc27.png,user5@example.com,{language:'Italian'},2022-07-05T14:00:00Z,2022-07-02T19:00:00Z
+6b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4bed,https://cdn.credentialregiater.com/2571c54e-2cde-4434-83f2-c329f74adc27.png,user6@example.com,{language:'Portuguese'},2022-07-06T15:00:00Z,2022-07-02T20:00:00Z
+7b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4bed,https://cdn.credentialregiater.com/2571c54e-2cde-4434-83f2-c329f74adc27.png,user7@example.com,{language:'Russian'},2022-07-07T16:00:00Z,2022-07-02T21:00:00Z
+8b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4bed,https://cdn.credentialregiater.com/2571c54e-2cde-4434-83f2-c329f74adc27.png,user8@example.com,{language:'Chinese'},2022-07-08T17:00:00Z,2022-07-02T22:00:00Z
+9b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4bed,https://cdn.credentialregiater.com/2571c54e-2cde-4434-83f2-c329f74adc27.png,user9@example.com,{language:'Arabic'},2022-07-09T18:00:00Z,2022-07-02T23:00:00Z
+10b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4bed,https://cdn.credentialregiater.com/2571c54e-2cde-4434-83f2-c329f74adc27.png,user10@example.com,{language:'Japanese'},2022-07-10T19:00:00Z,2022-07-02T24:00:00Z

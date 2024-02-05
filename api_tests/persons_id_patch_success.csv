@@ -1,0 +1,11 @@
+id,initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference
+1a2b3c,A.J,Adam,Joseph,Johnson,1987-11-02,New York,1324567890,adam.j@gmail.com,10005,24,A,US,REF1023
+4d5e6f,K.R,Kate,Rose,Doe,1990-03-15,Los Angeles,1245693568,kate.r@gmail.com,90001,30,B,US,REF2035
+7g8h9i,P.L,Paul,Liam,Smith,1988-07-20,Chicago,1452863907,paul.l@gmail.com,60629,35,C,US,REF3089
+a1b2c3,M.K,Mary,Kate,Williams,1991-02-25,Houston,1256938740,mary.k@gmail.com,77084,40,D,US,REF4078
+d4e5f6,J.F,John,Frank,Brown,1989-01-18,Phoenix,1329856074,john.f@gmail.com,85032,45,E,US,REF5090
+g7h8i9,D.G,David,Graham,Davis,1990-04-05,Philadelphia,1357968204,david.g@gmail.com,19120,50,F,US,REF6012
+a2b3c4,L.H,Lucy,Heather,Miller,1992-08-12,San Antonio,1486352907,lucy.h@gmail.com,78207,55,G,US,REF7034
+d5e6f7,N.B,Neil,Blake,Wilson,1988-05-30,San Diego,1563928479,neil.b@gmail.com,92126,60,H,US,REF8067
+g8i9j1,R.T,Richard,Tony,Moore,1987-11-23,Dallas,1629308747,richard.t@gmail.com,75217,65,I,US,REF9089
+b2c3d4,S.P,Sophia,Pearl,Taylor,1991-07-14,San Jose,1759386247,sophia.p@gmail.com,95123,70,J,US,REF1001

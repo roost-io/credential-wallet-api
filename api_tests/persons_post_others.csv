@@ -1,0 +1,11 @@
+birthDate,initials,lastName,firstName,middleName,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference
+1990-07-15,AB,Johnson,John,Doe,john.doe@email.com,1234AB,12,A,US,SocialMediaProfile1
+1995-09-22,CD,Keller,Charles,Noah,charles.k123@gmail.com,5678,987,B,UK,Reference2
+1965-01-28,EF,Smith,Emma,Jane,smith.e@email.co.uk,6789,345,C,US,ReferenceValue3
+1980-12-05,GH,Taylor,Mike,Andrew,,7890,456,,CA,
+1975-03-30,IJ,Parker,Mary,Lou,mary.p@email.com,8901,567,D,AU,TestReference4
+2001-04-25,KL,Miller,Emily,Grace,emily.m@email.au,,678,E,UK,ReferenceField5
+1986-05-19,MN,Jackson,Jack,Nathaniel,jack.n@email.com,9012,789,F,US,
+1999-07-12,OP,Williams,Liam,Oliver,liam.o@email.co.uk,3456,890,G,US,SocialMediaProfile6
+1990-06-27,QR,Davies,William,James,,6789AB,123,H,CA,ReferenceValue7
+1987-11-04,ST,Clark,Henry,Thomas,clark.t@email.com,0987,345,I,UK,TestReference8

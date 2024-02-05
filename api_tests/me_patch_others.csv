@@ -1,0 +1,11 @@
+name,image,settings
+John,data:image/jpeg;base64,iVBORw0KG,{'notifications':'on', 'privacy':'public'}
+Alice,data:image/png;base64,iVBORw0KG,{'notifications':'off', 'privacy':'private'}
+Beth,invalidURL,{'notifications':'off', 'privacy':'public'}
+Edward,data:image/jpeg;base64,iVBORw0KG,{'notifications':'on', 'privacy':'private'}
+Katie,,{'notifications':'off', 'privacy':'private'}
+Phil,data:image/png;base64,iVBORw0KG,{'notifications':'on', 'privacy':'public'}
+Mandy,invalidURL,{'notifications':'off', 'privacy':'public'}
+Glen,data:image/jpeg;base64,iVBORw0KG,{'notifications':'on', 'privacy':'private'}
+Jessica,,{'notifications':'off', 'privacy':'private'}
+Ford,data:image/png;base64,iVBORw0KG,{'notifications':'on', 'privacy':'public'}

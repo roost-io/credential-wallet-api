@@ -1,0 +1,11 @@
+cocNumber,cocBranchNumber,city,tradeName,phone,email
+12345678,123456789012,New York,ABC Trade,1234567890,abc@trade.com
+23456789,234567890123,Los Angeles,DEF Trade,2345678901,def@trade.com
+34567890,345678901234,Chicago,GHI Trade,3456789012,ghi@trade.com
+45678901,456789012345,Houston,JKL Trade,4567890123,jkl@trade.com
+56789012,567890123456,Phoenix,MNO Trade,5678901234,mno@trade.com
+67890123,678901234567,Philadelphia,PQR Trade,6789012345,pqr@trade.com
+78901234,789012345678,San Antonio,STU Trade,7890123456,stu@trade.com
+89012345,890123456789,San Diego,VWX Trade,8901234567,vwx@trade.com
+90123456,901234567890,Dallas,YZ Trade,9012345678,yz@trade.com
+01234567,012345678901,San Jose,AAA Trade,0123456789,aaa@trade.com
