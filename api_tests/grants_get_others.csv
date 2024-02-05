@@ -1,0 +1,11 @@
+statusCode,field1,field2
+200,1243,smith@mystore.com
+401,2143,james@noreply.com
+500,4231,amy@random.com
+200,1234,
+401,1235,john@abc.com
+200,527,matt@gmail.xyz
+400,6578,harry@nopreply.com
+200,9243,emma@myshop.com
+503,2841,jacob@noreply.com
+200,938,eva@randomsite.org

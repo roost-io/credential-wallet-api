@@ -1,0 +1,11 @@
+birthDate,initials,firstName,middleName,lastName,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference
+1987-05-23,KJ,Kyle,James,Robertson,New York,212-555-1234,kyle.james@gmail.com,00977,12,12A,US,Ref01
+1974-10-02,AP,Alice,Patricia,Williams,Las Vegas,702-555-6789,alice.p@gmail.com,20975,345,AB,US,Ref02
+1995-07-19,MR,Mary,Rose,Watson,Los Angeles,213-555-4567,mary.watson@gmail.com,23456,123,XY,US,Ref03
+1982-11-12,JC,John,Carl,Brown,Chicago,312-555-7890,john.brown@gmail.com,67891,789,EF,US,Ref04
+1978-03-07,DJ,David,Jason,Miller,Dallas,214-555-1234,david.miller@gmail.com,12468,567,PQ,US,Ref05
+1985-01-25,PR,Peter,Richard,Davis,Phoenix,602-555-5678,peter.davis@gmail.com,98732,876,ST,US,Ref06
+1990-08-30,JS,John,Samuel,Garcia,Houston,713-555-3456,john.garcia@gmail.com,13245,432,UV,US,Ref07
+2000-04-04,ED,Emma,Denise,Rodriguez,Philadelphia,215-555-6789,emma.rodriguez@gmail.com,87652,123,WZ,US,Ref08
+1997-12-18,WM,Walter,Martin,Lewis,San Antonio,210-555-1234,walter.lewis@gmail.com,56743,345,CD,US,Ref09
+2002-09-22,AR,Alexander,Ryan,Wilson,Denver,303-555-5678,alex.wilson@gmail.com,23451,678,XY,US,Ref10

@@ -1,0 +1,11 @@
+id,credential-url,size,offset,statusCode
+123e4567-e89b-12d3-a456-426614174000,http://example.com/credential/1,15,0,200
+123e4567-e89b-12d3-a456-426614174001,http://example.com/credential/2,20,0,200
+123e4567-e89b-12d3-a456-426614174002,http://example.com/credential/3,25,0,200
+123e4567-e89b-12d3-a456-426614174003,http://example.com/credential/4,30,0,200
+123e4567-e89b-12d3-a456-426614174004,http://example.com/credential/5,35,0,200
+123e4567-e89b-12d3-a456-426614174005,http://example.com/credential/6,40,0,200
+123e4567-e89b-12d3-a456-426614174006,http://example.com/credential/7,45,0,200
+123e4567-e89b-12d3-a456-426614174007,http://example.com/credential/8,50,0,200
+123e4567-e89b-12d3-a456-426614174008,http://example.com/credential/9,10,0,200
+123e4567-e89b-12d3-a456-426614174009,http://example.com/credential/10,5,0,200

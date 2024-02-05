@@ -1,0 +1,11 @@
+id,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference 
+3e49b8f5-8bfa-4f4d-a9f3-d55ed0ae1a69,Daisy,Lee,Peterson,1981-08-23,Sydney,0412456783,daisy.peterson@email.com,2001,45,A,AU,da8s54ad564w4
+36e4d5f8-2dbc-4a31-a9d6-919e78c429d2,John,Smith,Doe,1987-12-7,Melbourne,0412123456,john.doe@email.com,3000,23,B,AU,er4ed87812wq4
+24e4c7g2-1abc-5y21-a456-789e10c435r2,Alice,Mary,Bridges,1975-10-5,Adelaide,0422345678,alice.bridges@email.com,5000,89,,AU,g1h3j0k1loff5
+32m4n6p9-5zxc-7a85-g594-652h35c274d7,Bob,Paul,Miller,1990-4-2,Perth,0433456789,bob.miller@email.com,6000,16,C,AU,q6r7s1t6u2v8w9
+98b8h0s2-3fgh-5j67-k891-235i79b953a9,Charlie,Sam,Watson,1985-6-25,Hobart,0444567890,charlie.watson@email.com,7000,11,D,AU,b1c2d3e4f5g6h7
+275uk6b4-6pqr-8m90-r12t-780o956291y9,Sarah,Jane,Simpson,1972-3-20,Sydney,0455678901,sarah.simpson@email.com,3005,48,E,AU,i4j6k1l5m7n8o9
+f4g6h8j1-9lmn-2b34-v567-9x11z241c0i9,Harry,George,Williams,1988-7-15,Melbourne,0466789012,harry.williams@email.com,3006,5,F,AU,z8x9v7b4n2m3k6
+d4f6g8h5-2qw4-6e789-r123-75p6o8i9u754c,Zoe,Anne,Jones,1978-11-30,Adelaide,0412890123,zoe.jones@email.com,5005,82,G,AU,y6u7i2o9r7t8y4q2
+3c4v6b7n-8m9j-0k12-l345-985p6q3r172s2,Noah,Sophie,Brown,1992-5-15,Perth,0489012345,noah.brown@email.com,6005,10,H,AU,u7y6o5p4i3u2y1k1
+15r3k6j7-9h8g-5f40-d123-45l76m9781n2o,Liam,Emily,Davies,1980-1-4,Hobart,0412345678,liam.davies@email.com,7005,33,,AU,0p9o8i7u6y4532rt

@@ -1,0 +1,11 @@
+cocNumber,cocBranchNumber,city,tradeName,phone,email
+12345678,123456789012,Amsterdam,TradeName1,0612345678 email@email.com,
+87654321,210987654321,Rotterdam,TradeName2,0687654321,invalidEmail
+23456781,321098765432,Utrecht,TradeName3,0623456781,email2@email.com
+76543218,876509284375,Breda,TradeName4,0676543218,
+34567812,432109876543,Groningen,TradeName5,0634567812,email3@email.com
+65432187,754326891203,Leiden,TradeName6,0665432187,
+45678123,543210987654,Maastricht,TradeName7,0645678123,email4@email.com
+54321876,887659924100,Haarlem,TradeName8,0654321876,invalidEmail
+56781234,654321098765,Nijmegen,TradeName9,0656781234,email5@email.com
+43218765,115699342028,Apeldoorn,TradeName10,0643218765,
